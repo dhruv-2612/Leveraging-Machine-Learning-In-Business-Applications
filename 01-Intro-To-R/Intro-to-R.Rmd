@@ -1,0 +1,432 @@
+---
+title: "Introduction to R Programming"
+author: "Dhruv Nawani"
+date: "`r Sys.Date()`"
+output:
+  pdf_document:
+    toc: true
+    number_sections: true
+---
+
+```{r setup, include=FALSE}
+# Global chunk options
+# echo = TRUE      : show R code
+# message = FALSE : suppress messages
+# warning = FALSE : suppress warnings
+knitr::opts_chunk$set(
+  echo = TRUE,
+  message = FALSE,
+  warning = FALSE
+)
+```
+
+# Introduction
+
+R is a programming language and environment widely used for:
+- Statistical analysis
+- Data visualization
+- Data science and machine learning
+- Academic and industry research
+
+This document introduces the **fundamental concepts of R** using simple and reproducible examples.
+
+---
+
+# Using Built-in Data
+
+R includes several built-in datasets for learning and experimentation.
+
+The `lynx` dataset records annual numbers of lynx trappings in Canada.
+
+```{r}
+hist(lynx,
+     main = "Histogram of Lynx Trappings",
+     col = "lightblue",
+     xlab = "Number of Lynx")
+```
+
+**Key idea:**  
+A histogram is used to understand the distribution of a numeric variable.
+
+---
+
+# Basic Arithmetic in R
+
+R supports all standard arithmetic operations.
+
+```{r}
+12 + 3          # Addition
+(12 / 3) * 3    # Division and multiplication
+(45 / 5) * 12 + 10
+(23 * 3) - (43 * 2)
+```
+
+---
+
+## Assignment Operator
+
+Values are stored in variables using the assignment operator `<-`.
+
+```{r}
+X <- (45 / 5) * 12 + 10
+Y <- (23 * 3) - (43 * 2)
+
+X - Y
+```
+
+**Note:**  
+Although `=` can be used, `<-` is the conventional assignment operator in R.
+
+---
+
+# Getting Help and Documentation in R
+
+R provides extensive **built-in documentation** for all functions, datasets, and packages.
+This documentation can be accessed directly from **RStudio**.
+
+---
+
+## Using the `?` Operator
+
+The question mark `?` is a shortcut to access help files.
+
+```{r}
+?hist
+```
+
+This opens the help page for the `hist()` function in the **Help** pane of RStudio.
+
+---
+
+## Using the `help()` Function
+
+The `help()` function performs the same task as the `?` operator.
+
+```{r}
+help(mean)
+```
+
+---
+
+## Getting Help for Datasets
+
+You can also view documentation for built-in datasets.
+
+```{r}
+?iris
+```
+
+---
+
+## Searching for Help When You Are Unsure
+
+If you are not sure about the exact function name, use `help.search()`.
+
+```{r}
+help.search("regression")
+```
+
+---
+
+## Why This Is Important
+
+Reading the documentation helps you understand:
+- What a function does
+- What arguments it takes
+- What values it returns
+- Examples of correct usage
+
+Learning to use R’s help system is a key step toward becoming independent in R programming.
+
+# Variables and Vectors
+
+A **vector** is the most basic data structure in R.  
+All elements in a vector must be of the same data type.
+
+```{r}
+PARatings <- c(3, 2, 4, 3, 5, 4, 3, 2, 3, 4, 5)
+
+Name <- c("Ravi", "Sudha", "Ramesh", "Soham", "Shilpa",
+          "Bhavesh", "Amarpreet", "Wilfred", "Abdul", "Srini", "Taposh")
+
+Age <- c(23, 22, 23, 25, 26, 24, 27, 23, 23, 25, 26)
+```
+
+---
+
+# Data Frames
+
+A **data frame** is a tabular data structure where:
+- Each column is a vector
+- Each row is an observation
+
+```{r}
+PerfData <- data.frame(Name, PARatings, Age)
+PerfData
+```
+
+---
+
+## Inspecting a Data Frame
+
+```{r}
+dim(PerfData)      # Dimensions (rows, columns)
+str(PerfData)      # Structure of the data
+summary(PerfData)  # Summary statistics
+```
+
+These functions are essential for initial data exploration.
+
+---
+
+# Working with Files (Reproducible Approach)
+
+Avoid using `setwd()` as it makes code non-reproducible.  
+Instead, read and write files relative to the project directory.
+
+```{r}
+write.csv(PerfData, "Appraisal.csv", row.names = FALSE)
+PerfData1 <- read.csv("Appraisal.csv")
+```
+
+```{r}
+str(PerfData1)
+summary(PerfData1)
+```
+
+---
+
+# Built-in Dataset: Iris
+
+The `iris` dataset is commonly used for demonstrating classification and visualization techniques.
+
+```{r}
+data(iris)
+str(iris)
+summary(iris)
+```
+
+```{r}
+head(iris)
+tail(iris)
+```
+
+---
+
+# Visualizing Categorical Data
+
+Categorical (qualitative) data represents groups or categories.
+
+## Bar Plot
+
+```{r}
+tab <- table(iris$Species)
+
+barplot(tab,
+        main = "Species Distribution",
+        xlab = "Species",
+        ylab = "Frequency",
+        col = rainbow(3))
+```
+
+---
+
+## Pie Chart
+
+```{r}
+pie(tab,
+    main = "Species Composition",
+    col = rainbow(3))
+```
+
+Bar plots and pie charts are commonly used to show category frequencies.
+
+---
+
+# Visualizing Numerical Data
+
+## Histogram
+
+```{r}
+hist(iris$Sepal.Length,
+     main = "Histogram of Sepal Length",
+     xlab = "Sepal Length",
+     col = "orange",
+     breaks = 15)
+```
+
+Histograms show the shape, center, and spread of numeric data.
+
+---
+
+## Scatter Plot
+
+```{r}
+plot(iris$Sepal.Length, iris$Sepal.Width,
+     col = "red",
+     main = "Sepal Length vs Sepal Width",
+     xlab = "Sepal Length",
+     ylab = "Sepal Width")
+```
+
+Scatter plots visualize relationships between two numeric variables.
+
+---
+
+## Multiple Scatter Plots and Correlations
+
+```{r}
+pairs(iris)
+```
+
+```{r}
+library(psych)
+pairs.panels(iris)
+```
+
+These plots help identify correlations among multiple variables.
+
+---
+
+# Data Types in R
+
+R commonly works with numeric, character, and logical data types.
+
+```{r}
+A <- 4
+class(A)
+
+B <- "gender"
+class(B)
+
+C <- TRUE
+class(C)
+```
+
+---
+
+# Vectors, Coercion, and Lists
+
+## Named Vectors
+
+```{r}
+Age <- c(Ravi = 23, Sudha = 22, Ramesh = 23, Soham = 25, Shilpa = 26)
+Age
+```
+
+---
+
+## Type Coercion
+
+When different data types are combined in a vector, R coerces them to a common type.
+
+```{r}
+mixed <- c(23, 22, "Ravi", 25)
+class(mixed)
+```
+
+Character data has higher priority than numeric data.
+
+---
+
+## Lists
+
+Lists can store elements of different data types.
+
+```{r}
+mylist <- list(23, 22, "Ravi", TRUE)
+sapply(mylist, class)
+```
+
+---
+
+# Factors (Categorical Variables)
+
+Factors are used to represent categorical and ordinal data.
+
+```{r}
+PARatings <- c(3, 2, 4, 3, 5, 4, 3, 2, 3, 4, 5)
+
+PARatings_factor <- factor(PARatings)
+
+PARatings_ordered <- factor(PARatings,
+                            ordered = TRUE,
+                            levels = c(2, 3, 4, 5))
+
+str(PARatings_ordered)
+```
+
+Ordered factors are useful when category levels have a natural order.
+
+---
+
+# Conditional Statements
+
+Conditional statements allow R to make decisions based on logical conditions.
+
+```{r}
+x <- 10
+
+if (x > 0) {
+  "x is positive"
+} else {
+  "x is negative"
+}
+```
+
+```{r}
+if (iris$Sepal.Length[1] < 4) {
+  "Sepal length is less than 4"
+} else {
+  "Sepal length is greater than or equal to 4"
+}
+```
+
+---
+
+# Operators in R
+
+## Arithmetic Operators
+
+```{r}
+A <- 12
+B <- 10
+
+A * B
+A - B
+```
+
+---
+
+## Relational Operators
+
+```{r}
+A < B
+A > B
+A == B
+A != B
+```
+
+---
+
+## Logical Operators
+
+```{r}
+p <- 10
+
+(p < 15 & p > 8)   # AND
+(p > 15 | p > 8)   # OR
+!(p < 15)          # NOT
+```
+
+---
+
+# Conclusion
+
+This document introduced the foundational concepts of R programming, including:
+- Data structures
+- Visualization techniques
+- File handling
+- Conditional logic and operators
+
+These fundamentals form the basis for advanced topics such as statistics, data analysis, and machine learning.
