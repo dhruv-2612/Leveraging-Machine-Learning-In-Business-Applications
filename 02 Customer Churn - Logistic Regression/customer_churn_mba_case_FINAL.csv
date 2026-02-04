@@ -1,0 +1,1201 @@
+"tenure_months","monthly_usage","avg_monthly_bill","contract_type","customer_segment","complaints_last_6m","support_calls","payment_delay_flag","price_hike_flag","discount_received","engagement_score","churn"
+25,76,673,"Annual","Value Seekers",0,1,1,1,0,80,0
+7,78,444,"Annual","Premium",4,2,0,0,0,67,0
+2,67,1127,"Quarterly","Price Sensitive",1,1,1,1,1,83,0
+11,73,1787,"Quarterly","Price Sensitive",2,2,1,1,0,72,0
+25,76,1451,"Annual","Premium",1,0,0,0,0,94,0
+33,95,1497,"Annual","Price Sensitive",5,2,0,0,0,62,0
+14,90,1460,"Monthly","Value Seekers",1,3,1,1,1,79,0
+12,28,636,"Annual","Premium",3,1,0,0,1,58,0
+13,52,611,"Annual","Price Sensitive",2,1,0,0,0,59,0
+15,121,1441,"Annual","Premium",2,1,0,0,0,100,0
+7,83,1043,"Annual","Value Seekers",2,2,0,0,1,79,0
+39,24,678,"Annual","Price Sensitive",1,3,0,1,0,65,0
+27,72,779,"Quarterly","Value Seekers",0,0,0,0,1,90,0
+21,60,940,"Monthly","Price Sensitive",2,3,0,0,0,60,0
+9,96,1928,"Quarterly","Price Sensitive",1,3,1,0,0,63,0
+16,52,638,"Monthly","Price Sensitive",0,0,0,1,1,89,0
+16,56,1353,"Annual","Value Seekers",2,1,0,0,1,75,0
+71,99,1106,"Monthly","Price Sensitive",2,2,0,0,0,80,0
+26,51,2015,"Annual","Value Seekers",2,1,1,0,0,49,0
+54,53,606,"Annual","Value Seekers",1,1,0,0,0,90,0
+15,41,681,"Monthly","Premium",0,1,0,0,0,83,0
+17,45,873,"Annual","Value Seekers",3,3,1,1,0,44,0
+36,36,363,"Quarterly","Price Sensitive",3,2,1,0,0,52,1
+26,75,1007,"Monthly","Value Seekers",1,0,0,0,0,73,0
+8,54,650,"Quarterly","Price Sensitive",1,0,1,0,1,75,0
+19,88,854,"Monthly","Premium",3,1,1,1,0,62,0
+38,56,1811,"Quarterly","Premium",3,3,0,0,0,55,0
+45,66,1227,"Monthly","Value Seekers",1,4,0,1,0,73,0
+48,49,1690,"Annual","Price Sensitive",0,5,0,0,0,63,0
+53,75,1177,"Annual","Value Seekers",2,2,0,1,1,72,0
+41,100,831,"Monthly","Price Sensitive",0,0,0,0,1,100,0
+9,71,1266,"Quarterly","Value Seekers",3,1,1,1,0,61,0
+28,83,1074,"Quarterly","Value Seekers",2,2,0,0,0,85,0
+13,64,1497,"Annual","Price Sensitive",1,0,1,1,0,83,0
+14,65,827,"Quarterly","Price Sensitive",2,3,1,0,0,28,0
+6,47,1341,"Annual","Price Sensitive",2,1,0,0,0,52,0
+28,44,778,"Quarterly","Premium",2,1,1,0,0,59,0
+58,30,1438,"Quarterly","Price Sensitive",1,3,0,0,0,64,0
+13,45,1049,"Quarterly","Price Sensitive",3,1,0,1,1,74,0
+18,79,1698,"Monthly","Value Seekers",1,1,0,0,0,87,0
+39,76,1165,"Annual","Premium",2,5,0,0,0,54,0
+9,69,1416,"Monthly","Price Sensitive",0,4,0,1,0,78,0
+48,69,1764,"Annual","Value Seekers",1,1,0,0,0,91,0
+25,67,1502,"Monthly","Value Seekers",0,1,0,1,1,77,0
+26,47,1269,"Annual","Value Seekers",1,3,0,0,0,56,0
+5,51,663,"Annual","Premium",3,2,0,0,0,69,0
+12,78,1394,"Annual","Value Seekers",4,3,0,1,1,50,0
+20,58,572,"Monthly","Price Sensitive",4,3,1,0,0,60,1
+9,70,1628,"Annual","Price Sensitive",0,1,0,0,0,91,0
+12,54,920,"Annual","Value Seekers",2,3,1,0,1,50,0
+28,33,1319,"Annual","Price Sensitive",1,3,1,0,1,45,0
+50,88,776,"Quarterly","Value Seekers",6,3,0,0,0,55,0
+20,63,1260,"Monthly","Price Sensitive",1,4,1,1,0,61,0
+7,59,1222,"Quarterly","Price Sensitive",0,2,1,1,0,57,0
+42,74,1153,"Monthly","Value Seekers",3,3,0,0,1,47,0
+6,111,993,"Monthly","Value Seekers",4,2,0,0,1,73,0
+13,66,549,"Annual","Premium",2,1,1,0,0,74,0
+6,96,2378,"Quarterly","Premium",0,1,1,0,0,100,0
+35,84,691,"Quarterly","Value Seekers",2,2,0,0,1,76,0
+7,54,1484,"Monthly","Value Seekers",0,5,0,0,1,60,0
+16,79,801,"Annual","Premium",3,1,0,0,1,88,0
+18,69,620,"Annual","Price Sensitive",1,3,0,0,1,59,0
+59,83,1861,"Quarterly","Price Sensitive",2,2,1,0,0,61,0
+7,80,981,"Quarterly","Price Sensitive",4,1,1,0,1,47,0
+19,57,1131,"Annual","Price Sensitive",1,1,0,1,1,89,0
+31,32,2065,"Annual","Premium",3,1,0,1,0,61,0
+19,75,1530,"Quarterly","Value Seekers",1,3,1,0,0,77,0
+12,71,1347,"Quarterly","Value Seekers",1,5,0,0,0,64,0
+24,53,976,"Annual","Price Sensitive",1,1,0,0,0,85,0
+12,78,1085,"Monthly","Price Sensitive",3,1,0,0,1,68,0
+8,60,1086,"Quarterly","Price Sensitive",1,2,0,0,0,61,0
+34,100,1023,"Monthly","Value Seekers",0,4,0,0,0,87,0
+17,68,1849,"Annual","Price Sensitive",3,2,0,1,0,41,0
+11,56,1194,"Monthly","Value Seekers",0,1,0,0,1,97,0
+16,93,854,"Monthly","Price Sensitive",4,1,1,0,1,73,0
+28,16,1617,"Quarterly","Value Seekers",0,1,0,0,0,78,0
+17,61,1256,"Quarterly","Price Sensitive",2,1,0,0,1,94,0
+25,84,369,"Monthly","Price Sensitive",3,1,0,1,1,67,0
+32,66,786,"Monthly","Premium",1,4,0,1,0,65,0
+23,65,942,"Quarterly","Value Seekers",2,3,1,0,1,57,0
+23,79,1389,"Monthly","Price Sensitive",4,3,0,0,0,69,0
+20,37,846,"Quarterly","Price Sensitive",3,3,0,0,0,31,0
+30,55,1188,"Monthly","Premium",3,0,1,0,0,85,0
+5,56,731,"Quarterly","Value Seekers",1,7,0,0,0,59,0
+28,57,1717,"Annual","Premium",0,2,0,0,0,100,0
+36,85,1150,"Annual","Price Sensitive",0,0,0,0,1,100,0
+35,54,1156,"Monthly","Value Seekers",7,1,0,1,1,48,1
+23,61,730,"Monthly","Premium",2,6,0,0,0,52,0
+18,48,1050,"Monthly","Value Seekers",1,1,0,0,0,60,0
+16,29,1574,"Quarterly","Value Seekers",1,3,0,0,0,53,0
+23,105,833,"Monthly","Price Sensitive",2,1,0,0,0,72,0
+33,79,982,"Annual","Price Sensitive",1,2,0,0,1,95,0
+25,59,1074,"Monthly","Price Sensitive",6,5,0,0,0,37,1
+26,75,300,"Quarterly","Premium",2,2,0,1,0,76,0
+35,66,1213,"Quarterly","Price Sensitive",1,3,1,1,0,61,0
+10,56,300,"Annual","Premium",1,2,0,0,0,70,0
+33,45,1938,"Monthly","Value Seekers",3,0,0,1,1,71,0
+16,55,1165,"Annual","Price Sensitive",0,4,1,1,1,43,0
+40,33,982,"Quarterly","Price Sensitive",2,4,0,0,0,55,0
+9,28,1095,"Monthly","Price Sensitive",1,3,0,1,1,50,0
+25,28,1496,"Monthly","Price Sensitive",3,1,0,1,0,51,1
+23,47,1114,"Quarterly","Value Seekers",2,0,0,0,1,79,0
+28,62,1291,"Quarterly","Premium",1,5,0,1,0,68,0
+25,42,1423,"Annual","Value Seekers",0,2,0,0,0,84,0
+34,86,924,"Quarterly","Value Seekers",3,3,0,0,0,72,0
+33,52,927,"Quarterly","Price Sensitive",0,2,0,0,0,71,0
+19,48,1434,"Annual","Price Sensitive",1,4,0,0,1,62,0
+22,68,1292,"Monthly","Premium",2,2,0,1,0,76,0
+19,63,1332,"Monthly","Premium",1,3,0,0,0,75,0
+34,41,2018,"Quarterly","Value Seekers",2,5,1,0,1,40,0
+19,90,1384,"Annual","Value Seekers",1,2,0,1,0,87,0
+20,66,419,"Monthly","Premium",1,1,0,0,0,79,0
+2,89,1840,"Annual","Premium",1,2,0,1,0,92,0
+38,77,300,"Monthly","Value Seekers",0,1,0,0,0,95,0
+3,83,1266,"Monthly","Premium",3,4,0,0,1,61,0
+9,41,1347,"Monthly","Premium",3,1,0,1,1,49,1
+8,49,1087,"Monthly","Price Sensitive",1,0,0,1,1,64,0
+33,59,728,"Quarterly","Premium",1,4,0,0,0,66,0
+21,32,1150,"Annual","Premium",2,1,0,0,1,68,0
+27,75,1182,"Monthly","Price Sensitive",0,2,0,0,0,69,0
+41,72,1071,"Monthly","Price Sensitive",1,1,1,0,1,72,0
+27,65,1019,"Annual","Price Sensitive",1,1,0,1,0,82,0
+23,30,1141,"Monthly","Value Seekers",1,2,0,1,1,60,0
+10,54,497,"Quarterly","Value Seekers",3,1,0,1,0,61,0
+38,78,1821,"Monthly","Price Sensitive",3,4,1,0,0,54,0
+19,52,1549,"Monthly","Price Sensitive",1,5,1,1,0,36,1
+25,63,980,"Quarterly","Price Sensitive",0,5,0,0,0,58,0
+10,68,946,"Annual","Premium",0,4,1,1,1,70,0
+45,90,1170,"Annual","Value Seekers",0,1,1,0,1,76,0
+13,66,1279,"Monthly","Value Seekers",2,3,0,0,0,67,0
+24,57,1248,"Monthly","Premium",3,3,0,0,0,58,0
+30,73,709,"Annual","Price Sensitive",4,3,0,1,1,63,0
+35,44,1547,"Annual","Price Sensitive",0,1,0,0,0,84,0
+9,7,1476,"Monthly","Price Sensitive",1,3,0,0,0,47,0
+16,63,1155,"Monthly","Premium",1,4,0,0,0,66,0
+14,47,1226,"Monthly","Value Seekers",1,3,1,0,1,44,0
+29,48,1175,"Monthly","Premium",2,3,1,0,1,61,0
+14,96,1307,"Quarterly","Value Seekers",1,2,0,1,1,69,0
+34,77,1132,"Quarterly","Premium",0,5,1,1,1,80,0
+34,84,1778,"Monthly","Price Sensitive",1,2,1,1,0,61,0
+56,100,509,"Quarterly","Premium",0,0,1,1,1,93,0
+19,43,1519,"Monthly","Price Sensitive",4,3,0,0,1,62,1
+41,64,1446,"Monthly","Value Seekers",0,0,0,1,1,92,0
+34,88,932,"Monthly","Price Sensitive",0,2,0,0,0,92,0
+72,72,794,"Quarterly","Value Seekers",1,2,0,0,0,77,0
+29,54,1202,"Monthly","Price Sensitive",3,0,1,0,1,63,0
+59,64,1365,"Monthly","Value Seekers",2,2,0,1,0,67,0
+16,38,1655,"Monthly","Price Sensitive",1,4,0,1,1,40,0
+29,85,1110,"Monthly","Price Sensitive",2,3,1,0,0,74,0
+18,83,1503,"Monthly","Premium",4,0,0,1,1,82,0
+21,49,583,"Monthly","Price Sensitive",2,2,0,0,1,63,0
+27,97,752,"Quarterly","Price Sensitive",1,1,0,0,0,81,0
+13,94,934,"Monthly","Value Seekers",0,1,0,0,1,96,0
+12,32,1086,"Annual","Value Seekers",4,3,0,1,0,37,0
+25,103,1156,"Monthly","Price Sensitive",2,4,0,0,0,69,0
+8,59,916,"Monthly","Value Seekers",1,4,0,0,1,72,0
+17,95,1367,"Annual","Price Sensitive",4,1,1,0,1,85,0
+21,27,1768,"Monthly","Premium",1,3,0,0,0,69,0
+18,65,881,"Monthly","Price Sensitive",1,3,1,0,0,64,0
+17,68,978,"Monthly","Value Seekers",1,4,1,1,0,58,1
+14,57,340,"Annual","Value Seekers",1,3,1,0,0,64,0
+21,75,1025,"Monthly","Premium",0,2,1,0,0,88,0
+66,45,1470,"Monthly","Premium",3,1,0,0,0,58,0
+29,58,908,"Quarterly","Price Sensitive",1,3,0,1,0,69,0
+27,42,557,"Annual","Premium",2,2,1,1,1,57,1
+11,68,609,"Annual","Premium",2,1,0,0,0,79,0
+8,61,1482,"Quarterly","Premium",2,3,1,0,0,38,1
+41,64,1707,"Annual","Premium",0,1,0,0,0,83,0
+10,80,840,"Annual","Value Seekers",5,4,1,0,0,65,0
+29,54,1580,"Monthly","Price Sensitive",0,2,0,1,0,84,0
+32,58,892,"Quarterly","Price Sensitive",1,3,0,1,0,65,0
+10,64,785,"Annual","Price Sensitive",3,1,0,0,0,64,0
+27,60,1692,"Monthly","Value Seekers",4,0,0,1,0,86,0
+32,84,1791,"Annual","Premium",1,1,1,0,1,93,0
+24,86,1119,"Monthly","Price Sensitive",1,4,1,1,0,73,0
+9,108,595,"Annual","Premium",1,2,1,1,1,94,0
+39,58,1268,"Monthly","Price Sensitive",4,3,0,1,0,42,0
+12,103,609,"Monthly","Price Sensitive",2,0,1,1,1,74,0
+39,69,1297,"Quarterly","Value Seekers",2,0,1,0,0,78,0
+3,21,1744,"Annual","Price Sensitive",1,1,1,1,1,72,0
+21,33,1106,"Monthly","Value Seekers",3,2,1,0,0,47,0
+2,39,1138,"Quarterly","Value Seekers",0,1,0,1,0,64,0
+9,39,339,"Quarterly","Value Seekers",2,3,0,1,0,52,0
+5,70,936,"Monthly","Value Seekers",4,2,0,1,0,58,0
+15,101,1852,"Monthly","Value Seekers",1,4,1,0,0,79,0
+24,71,559,"Quarterly","Price Sensitive",2,1,0,1,1,61,0
+58,57,1350,"Quarterly","Price Sensitive",2,2,0,0,0,69,0
+36,48,815,"Monthly","Price Sensitive",3,2,1,0,0,49,0
+14,97,740,"Annual","Price Sensitive",1,2,0,0,0,92,0
+4,53,1856,"Annual","Premium",2,3,0,1,0,72,0
+17,83,300,"Monthly","Premium",1,4,0,0,0,81,0
+22,38,1947,"Quarterly","Value Seekers",3,1,0,0,1,64,0
+25,53,616,"Quarterly","Premium",1,1,1,0,0,73,0
+8,33,539,"Quarterly","Value Seekers",2,2,0,1,0,66,0
+9,52,1333,"Monthly","Value Seekers",2,1,1,1,0,65,0
+19,90,1257,"Annual","Value Seekers",1,4,0,0,0,86,0
+23,57,794,"Quarterly","Value Seekers",0,4,0,1,0,69,0
+22,79,621,"Monthly","Price Sensitive",0,3,0,0,1,80,0
+21,26,747,"Monthly","Value Seekers",3,3,0,1,0,43,1
+68,58,1704,"Monthly","Price Sensitive",2,3,0,0,0,68,0
+48,64,1130,"Monthly","Premium",0,2,0,0,0,95,0
+21,50,1837,"Monthly","Premium",1,5,0,0,0,45,0
+14,77,1513,"Quarterly","Value Seekers",2,0,0,1,0,72,0
+18,41,1408,"Monthly","Premium",0,1,0,0,1,98,0
+13,72,1694,"Quarterly","Value Seekers",5,2,0,0,0,47,0
+34,71,910,"Monthly","Price Sensitive",0,1,0,0,1,77,0
+15,80,1517,"Quarterly","Premium",1,5,0,0,1,58,0
+19,89,1563,"Annual","Price Sensitive",2,1,1,1,1,66,0
+53,86,889,"Monthly","Premium",1,2,0,0,1,100,0
+13,92,2210,"Quarterly","Value Seekers",1,1,0,1,0,92,0
+9,71,1529,"Monthly","Premium",1,2,0,0,0,83,0
+40,40,1300,"Quarterly","Price Sensitive",1,5,1,1,1,62,0
+29,87,1376,"Annual","Premium",3,3,0,1,0,64,0
+32,103,1292,"Monthly","Price Sensitive",1,3,0,1,0,90,0
+17,74,1849,"Monthly","Premium",3,2,0,1,1,68,0
+26,50,1010,"Monthly","Premium",1,1,0,0,0,70,0
+25,71,1497,"Quarterly","Price Sensitive",3,2,1,0,1,67,0
+25,54,791,"Monthly","Value Seekers",4,2,0,1,1,54,1
+23,69,300,"Quarterly","Value Seekers",1,3,0,0,1,71,0
+37,70,637,"Annual","Value Seekers",1,1,0,0,0,78,0
+10,21,1800,"Monthly","Price Sensitive",1,1,0,0,0,47,0
+7,102,1684,"Monthly","Price Sensitive",1,3,0,1,0,78,0
+26,79,1089,"Monthly","Price Sensitive",2,2,0,0,1,58,0
+35,78,1328,"Quarterly","Price Sensitive",0,0,0,0,1,100,0
+18,54,510,"Quarterly","Premium",1,3,0,0,0,76,0
+13,46,1188,"Monthly","Value Seekers",0,2,0,0,1,81,0
+10,89,1246,"Monthly","Price Sensitive",1,3,0,1,0,85,0
+18,32,824,"Monthly","Premium",0,0,0,1,0,95,0
+3,91,1289,"Monthly","Price Sensitive",0,5,0,0,0,63,0
+26,23,974,"Monthly","Price Sensitive",0,0,1,0,1,66,0
+6,75,1132,"Annual","Value Seekers",0,4,0,0,1,77,0
+7,42,876,"Annual","Premium",2,0,0,1,1,68,0
+25,45,1255,"Quarterly","Price Sensitive",1,2,0,0,1,55,0
+17,46,1668,"Quarterly","Premium",1,2,0,1,0,76,0
+65,70,1463,"Monthly","Price Sensitive",1,1,0,0,1,82,0
+4,95,1031,"Monthly","Premium",3,2,0,1,1,62,0
+35,70,1343,"Monthly","Price Sensitive",0,3,1,1,0,80,0
+8,91,983,"Quarterly","Price Sensitive",2,1,1,0,1,69,0
+5,76,417,"Monthly","Price Sensitive",1,4,0,0,1,84,0
+34,11,366,"Monthly","Value Seekers",1,4,0,0,1,52,1
+16,70,530,"Annual","Value Seekers",2,4,0,0,1,76,0
+22,50,1415,"Monthly","Premium",3,0,0,0,0,86,0
+13,89,1778,"Quarterly","Price Sensitive",2,1,0,0,0,95,0
+21,37,1157,"Quarterly","Value Seekers",0,1,0,1,1,77,0
+13,48,858,"Quarterly","Value Seekers",5,3,0,0,0,32,0
+26,61,1623,"Monthly","Value Seekers",1,3,0,1,0,80,0
+7,86,1352,"Quarterly","Value Seekers",2,0,0,0,0,78,0
+39,59,1983,"Quarterly","Value Seekers",2,6,0,0,0,45,0
+31,88,1434,"Quarterly","Premium",2,2,1,1,1,94,0
+33,82,1489,"Monthly","Price Sensitive",1,2,0,1,1,89,0
+26,79,1703,"Monthly","Price Sensitive",2,5,1,0,1,57,0
+30,12,1596,"Annual","Price Sensitive",3,0,1,0,1,44,0
+5,60,745,"Monthly","Price Sensitive",1,2,1,0,1,62,1
+25,67,1763,"Quarterly","Price Sensitive",3,0,1,1,0,49,0
+8,91,1128,"Annual","Price Sensitive",3,3,0,0,1,84,0
+52,69,1714,"Monthly","Price Sensitive",5,2,0,0,1,49,0
+10,73,1482,"Monthly","Premium",1,3,1,0,1,54,0
+17,83,1086,"Annual","Price Sensitive",2,3,0,0,1,55,0
+22,74,1355,"Monthly","Price Sensitive",0,7,1,1,0,55,1
+41,45,1119,"Quarterly","Price Sensitive",1,1,0,0,0,63,0
+30,29,1737,"Annual","Premium",1,1,1,0,0,93,0
+21,48,934,"Annual","Price Sensitive",1,1,0,0,0,96,0
+36,26,1535,"Quarterly","Value Seekers",3,1,0,0,0,46,0
+35,33,300,"Quarterly","Value Seekers",1,2,0,1,1,47,0
+21,68,836,"Annual","Price Sensitive",0,1,0,1,0,100,0
+22,67,1078,"Quarterly","Premium",4,2,1,0,1,50,0
+62,43,615,"Monthly","Value Seekers",3,4,1,0,0,38,1
+11,72,1797,"Monthly","Value Seekers",2,3,0,1,0,59,0
+72,50,916,"Annual","Premium",0,2,0,1,0,93,0
+28,84,412,"Monthly","Price Sensitive",3,2,0,1,1,65,0
+34,42,879,"Quarterly","Value Seekers",3,1,0,1,0,81,0
+23,76,1649,"Annual","Price Sensitive",3,1,0,1,0,70,0
+37,45,383,"Annual","Value Seekers",3,3,0,0,0,46,0
+34,60,946,"Quarterly","Value Seekers",0,1,1,1,0,78,0
+44,31,1446,"Annual","Value Seekers",1,3,0,1,0,75,0
+33,46,590,"Monthly","Price Sensitive",0,3,0,0,0,65,0
+11,102,1324,"Quarterly","Price Sensitive",5,3,1,0,1,47,1
+32,54,1325,"Monthly","Price Sensitive",2,3,0,0,0,52,0
+20,43,1357,"Monthly","Price Sensitive",4,2,1,1,0,45,1
+41,58,1792,"Monthly","Price Sensitive",2,1,0,1,1,65,1
+30,92,1019,"Monthly","Price Sensitive",2,0,0,0,1,87,0
+21,77,1014,"Monthly","Premium",1,0,0,0,0,89,0
+11,62,873,"Monthly","Value Seekers",1,1,1,0,0,78,0
+12,113,1804,"Monthly","Value Seekers",3,3,1,1,1,63,0
+12,67,882,"Monthly","Value Seekers",0,0,0,0,0,98,0
+22,81,1551,"Annual","Value Seekers",3,0,0,0,0,84,0
+15,40,1318,"Monthly","Price Sensitive",2,2,0,1,0,62,0
+16,86,1255,"Monthly","Price Sensitive",1,2,0,0,0,96,0
+15,66,2213,"Quarterly","Value Seekers",3,0,0,0,1,65,0
+19,65,1405,"Monthly","Price Sensitive",0,3,0,1,0,59,0
+23,98,976,"Monthly","Value Seekers",1,3,1,0,0,67,0
+29,74,393,"Monthly","Price Sensitive",1,1,0,0,0,80,0
+60,89,1136,"Annual","Premium",3,5,1,1,0,51,0
+5,74,2201,"Quarterly","Value Seekers",3,2,1,1,0,57,0
+29,50,367,"Quarterly","Premium",3,0,0,0,1,44,0
+16,34,1840,"Quarterly","Value Seekers",3,1,0,1,1,67,0
+8,71,1536,"Annual","Premium",3,0,0,0,0,84,0
+9,50,678,"Quarterly","Value Seekers",0,3,0,1,0,57,0
+17,72,1385,"Quarterly","Premium",5,2,1,1,0,76,0
+30,72,2506,"Monthly","Value Seekers",0,0,0,0,1,94,0
+31,41,1391,"Monthly","Value Seekers",2,6,0,1,0,43,1
+36,57,2174,"Annual","Price Sensitive",0,0,1,0,1,78,0
+11,45,569,"Quarterly","Price Sensitive",0,2,0,1,0,71,0
+40,107,1109,"Monthly","Price Sensitive",3,5,0,1,1,50,1
+24,86,1063,"Monthly","Value Seekers",4,2,0,0,0,67,0
+65,60,1659,"Monthly","Value Seekers",2,2,1,1,1,57,0
+12,95,1009,"Annual","Premium",1,2,1,1,1,72,0
+25,82,1824,"Quarterly","Value Seekers",0,2,0,0,0,89,0
+37,62,935,"Quarterly","Value Seekers",1,3,0,0,0,73,0
+14,58,1172,"Monthly","Premium",2,1,1,0,0,86,0
+26,46,1656,"Annual","Price Sensitive",1,1,0,0,1,88,0
+6,75,1895,"Quarterly","Value Seekers",0,0,0,1,1,89,0
+29,59,1157,"Quarterly","Value Seekers",1,3,1,1,0,50,0
+19,71,481,"Monthly","Price Sensitive",3,1,0,1,0,68,0
+4,90,822,"Quarterly","Price Sensitive",5,1,0,0,0,70,0
+9,90,1382,"Annual","Price Sensitive",1,1,0,0,0,95,0
+9,69,968,"Quarterly","Value Seekers",1,2,0,1,0,63,0
+26,65,2025,"Monthly","Price Sensitive",2,4,0,0,1,51,0
+15,98,2018,"Annual","Value Seekers",1,2,1,0,0,87,0
+17,51,684,"Annual","Value Seekers",1,2,1,1,0,76,0
+9,22,408,"Quarterly","Price Sensitive",2,4,1,0,1,50,1
+21,52,851,"Quarterly","Value Seekers",3,0,1,1,0,54,0
+17,32,1040,"Monthly","Price Sensitive",1,1,0,0,1,74,0
+17,55,452,"Annual","Value Seekers",1,4,0,0,0,69,0
+20,68,447,"Annual","Value Seekers",1,2,0,0,0,92,0
+26,92,1266,"Annual","Premium",0,5,0,1,0,100,0
+21,69,714,"Quarterly","Premium",1,3,1,0,0,59,0
+22,73,1240,"Monthly","Value Seekers",5,5,0,0,0,52,1
+25,90,933,"Quarterly","Price Sensitive",2,3,1,0,0,71,0
+54,49,1390,"Annual","Price Sensitive",1,3,0,0,0,80,0
+55,89,1469,"Annual","Value Seekers",4,4,0,0,0,63,0
+10,67,1529,"Annual","Premium",3,2,0,0,1,85,0
+28,77,796,"Annual","Value Seekers",0,3,1,0,1,70,0
+31,65,2011,"Monthly","Value Seekers",3,4,0,0,0,51,0
+14,49,453,"Quarterly","Value Seekers",2,2,1,1,1,58,0
+21,84,1266,"Quarterly","Price Sensitive",3,3,0,0,1,83,0
+20,57,809,"Quarterly","Value Seekers",3,2,0,0,1,61,0
+28,73,957,"Monthly","Premium",5,3,0,0,1,66,0
+27,64,937,"Annual","Price Sensitive",0,3,0,0,0,94,0
+15,46,1764,"Monthly","Premium",2,3,1,0,1,46,0
+54,14,802,"Quarterly","Value Seekers",1,1,0,1,0,60,0
+24,55,1486,"Monthly","Value Seekers",1,2,0,1,0,84,0
+12,69,1396,"Monthly","Price Sensitive",2,1,1,0,0,69,0
+22,58,2032,"Monthly","Value Seekers",1,1,0,0,0,72,0
+12,46,1592,"Quarterly","Premium",6,1,1,0,0,49,0
+6,31,300,"Quarterly","Premium",3,1,0,1,0,70,0
+10,66,1566,"Monthly","Value Seekers",1,2,1,0,1,58,1
+20,67,1736,"Quarterly","Value Seekers",3,2,1,0,0,50,0
+4,94,811,"Monthly","Price Sensitive",3,4,1,1,1,54,0
+23,68,1545,"Quarterly","Price Sensitive",1,2,0,0,0,78,0
+9,97,379,"Monthly","Value Seekers",2,1,0,0,0,74,0
+22,66,1021,"Annual","Value Seekers",2,2,1,0,1,44,0
+6,55,1234,"Monthly","Premium",0,2,1,0,0,81,0
+72,72,1391,"Annual","Price Sensitive",1,3,0,0,1,88,0
+30,64,1410,"Annual","Value Seekers",2,5,1,1,0,43,0
+27,63,1618,"Monthly","Price Sensitive",4,1,0,0,0,69,0
+10,36,913,"Annual","Value Seekers",4,3,0,1,1,67,0
+11,57,636,"Annual","Premium",2,2,0,1,1,78,0
+2,31,1548,"Monthly","Price Sensitive",3,2,0,1,0,51,0
+29,55,1182,"Quarterly","Price Sensitive",1,3,0,0,0,54,0
+27,85,808,"Annual","Price Sensitive",0,3,1,0,0,91,0
+9,5,1680,"Monthly","Price Sensitive",5,5,0,0,1,22,1
+12,49,1103,"Quarterly","Value Seekers",2,4,0,0,0,47,0
+14,58,1460,"Quarterly","Price Sensitive",1,2,0,1,0,62,0
+37,38,1090,"Monthly","Value Seekers",0,2,0,0,1,57,0
+21,35,1595,"Monthly","Price Sensitive",3,5,0,0,0,46,0
+10,105,1691,"Quarterly","Price Sensitive",1,2,0,0,0,66,0
+21,81,909,"Annual","Price Sensitive",1,3,0,0,0,77,0
+31,40,1160,"Quarterly","Value Seekers",1,1,0,1,1,65,0
+10,69,1584,"Annual","Premium",1,4,0,0,0,89,0
+7,53,1516,"Quarterly","Price Sensitive",2,2,1,1,1,27,1
+24,42,1267,"Annual","Price Sensitive",1,2,0,1,0,64,0
+38,76,1066,"Monthly","Value Seekers",2,7,1,1,0,32,0
+16,80,1543,"Monthly","Price Sensitive",3,4,0,0,1,53,0
+8,42,722,"Annual","Price Sensitive",1,3,1,0,0,53,1
+12,113,687,"Monthly","Premium",4,6,1,0,1,66,0
+55,41,514,"Monthly","Premium",3,1,0,0,1,70,0
+4,84,1560,"Annual","Value Seekers",1,4,1,1,0,72,0
+20,65,2037,"Monthly","Premium",1,2,1,0,1,68,0
+5,56,1386,"Monthly","Value Seekers",6,2,0,0,0,41,1
+27,62,1803,"Monthly","Premium",2,2,0,0,0,70,0
+16,96,1633,"Quarterly","Price Sensitive",3,2,0,0,1,57,0
+19,93,848,"Quarterly","Price Sensitive",1,3,1,1,0,65,0
+12,65,1267,"Monthly","Premium",1,3,0,0,0,66,0
+20,86,663,"Monthly","Price Sensitive",1,8,0,1,0,62,0
+12,63,1631,"Monthly","Value Seekers",3,1,0,1,0,53,0
+10,86,1586,"Monthly","Premium",1,3,0,1,1,82,0
+29,62,1354,"Annual","Price Sensitive",4,0,0,0,0,75,0
+33,100,1141,"Annual","Price Sensitive",2,4,1,0,0,83,0
+16,25,1395,"Quarterly","Premium",1,1,0,0,1,58,0
+9,95,535,"Monthly","Price Sensitive",1,0,0,1,0,98,0
+14,70,1335,"Monthly","Value Seekers",2,7,0,0,0,43,1
+21,89,2187,"Quarterly","Price Sensitive",1,3,1,0,1,43,0
+19,105,851,"Monthly","Price Sensitive",3,2,0,0,0,70,0
+8,89,477,"Annual","Price Sensitive",0,4,0,0,0,98,0
+37,112,874,"Monthly","Price Sensitive",0,3,0,1,0,98,0
+21,80,1678,"Quarterly","Value Seekers",1,1,0,0,1,79,0
+52,23,1275,"Monthly","Price Sensitive",0,4,0,0,1,57,0
+10,53,798,"Monthly","Value Seekers",0,8,1,1,1,39,1
+24,89,708,"Monthly","Price Sensitive",3,5,1,0,0,51,1
+34,53,931,"Quarterly","Price Sensitive",1,4,0,0,0,65,0
+9,74,1790,"Quarterly","Premium",1,2,0,0,0,72,0
+11,54,1460,"Quarterly","Value Seekers",0,2,0,1,1,79,0
+10,75,833,"Annual","Value Seekers",0,3,0,0,0,76,0
+25,65,1624,"Monthly","Value Seekers",2,2,1,1,0,71,0
+5,64,855,"Quarterly","Price Sensitive",0,2,0,1,0,70,0
+8,79,1058,"Quarterly","Value Seekers",3,1,1,1,0,48,0
+24,98,1561,"Quarterly","Value Seekers",1,0,1,0,0,87,0
+50,55,1608,"Monthly","Price Sensitive",3,1,1,0,1,57,0
+10,39,300,"Monthly","Price Sensitive",0,4,1,0,1,53,0
+7,90,1878,"Annual","Premium",1,4,0,0,0,85,0
+19,34,1472,"Quarterly","Price Sensitive",3,3,0,0,0,39,1
+26,72,1122,"Annual","Premium",1,1,0,0,0,90,0
+36,82,715,"Annual","Value Seekers",1,0,0,0,0,100,0
+22,70,1045,"Annual","Price Sensitive",2,1,0,0,0,88,0
+20,106,1085,"Monthly","Value Seekers",2,1,0,1,0,99,0
+26,63,758,"Quarterly","Value Seekers",1,4,0,0,0,55,0
+18,91,1289,"Monthly","Price Sensitive",1,1,0,0,1,85,0
+22,97,1659,"Annual","Value Seekers",1,5,0,1,0,63,0
+27,64,1643,"Monthly","Price Sensitive",0,3,0,0,0,87,0
+44,78,620,"Monthly","Premium",1,2,1,0,1,69,0
+39,48,1047,"Annual","Price Sensitive",2,5,0,1,0,51,0
+26,92,637,"Monthly","Premium",1,0,0,0,1,93,0
+21,81,1368,"Monthly","Premium",1,7,1,0,0,67,0
+22,28,1238,"Monthly","Price Sensitive",5,3,0,1,0,20,1
+10,68,1808,"Annual","Value Seekers",1,2,1,1,1,80,0
+35,76,773,"Annual","Premium",4,1,0,1,1,69,0
+10,85,515,"Annual","Price Sensitive",2,3,0,0,1,80,0
+24,66,868,"Quarterly","Value Seekers",2,2,0,0,0,66,0
+15,41,1576,"Annual","Premium",0,3,1,0,0,73,0
+58,63,1386,"Quarterly","Value Seekers",2,10,1,1,0,35,1
+21,105,1740,"Quarterly","Price Sensitive",5,0,0,0,1,60,0
+55,42,1022,"Quarterly","Value Seekers",1,4,1,0,0,29,0
+10,43,807,"Quarterly","Price Sensitive",1,2,0,1,1,63,0
+32,56,2406,"Annual","Price Sensitive",0,4,1,0,0,59,0
+45,13,961,"Monthly","Price Sensitive",5,4,0,0,0,36,1
+27,37,1015,"Monthly","Price Sensitive",3,0,0,0,0,53,0
+48,27,1938,"Quarterly","Price Sensitive",3,2,0,1,0,52,0
+46,90,321,"Monthly","Price Sensitive",2,1,1,0,1,57,0
+6,87,1081,"Monthly","Premium",3,1,1,0,0,74,0
+15,40,1430,"Monthly","Premium",1,4,1,0,0,71,0
+35,76,1910,"Monthly","Price Sensitive",3,2,0,1,0,67,0
+22,57,1262,"Annual","Value Seekers",4,5,1,1,0,40,1
+62,67,1299,"Quarterly","Value Seekers",2,3,0,1,0,66,0
+19,98,568,"Annual","Value Seekers",2,3,1,1,0,63,0
+72,22,1758,"Annual","Value Seekers",5,3,1,0,0,20,0
+4,59,925,"Monthly","Value Seekers",1,2,0,0,0,74,0
+6,73,1042,"Monthly","Price Sensitive",2,2,1,1,1,63,0
+31,21,1277,"Monthly","Price Sensitive",2,1,1,0,0,37,0
+26,67,1086,"Monthly","Value Seekers",2,0,1,0,0,55,0
+19,85,1638,"Annual","Value Seekers",1,2,0,1,1,78,0
+13,61,803,"Monthly","Price Sensitive",1,2,1,0,1,51,1
+28,67,1039,"Monthly","Price Sensitive",3,1,0,0,0,76,0
+61,66,2076,"Annual","Price Sensitive",3,4,0,0,1,45,0
+24,70,1574,"Monthly","Price Sensitive",3,1,1,0,0,65,0
+17,79,1099,"Quarterly","Value Seekers",0,3,1,0,1,90,0
+15,62,1258,"Annual","Price Sensitive",3,0,0,0,1,96,0
+9,22,873,"Annual","Price Sensitive",3,4,1,1,1,61,1
+41,98,1933,"Monthly","Price Sensitive",2,1,0,0,0,91,0
+5,48,1083,"Annual","Premium",1,4,1,0,0,73,0
+18,54,833,"Monthly","Price Sensitive",2,0,0,0,1,70,0
+16,55,988,"Monthly","Premium",3,0,1,1,1,54,0
+40,70,826,"Monthly","Premium",1,2,1,1,1,74,0
+15,62,1185,"Quarterly","Price Sensitive",2,2,0,1,1,66,0
+9,74,984,"Quarterly","Price Sensitive",1,5,0,1,0,76,0
+7,55,1558,"Annual","Value Seekers",2,2,1,1,0,63,0
+15,66,1254,"Monthly","Price Sensitive",8,1,0,0,0,30,0
+9,71,663,"Annual","Premium",1,4,0,1,1,79,0
+22,82,1863,"Quarterly","Price Sensitive",0,0,1,1,0,95,0
+7,53,1624,"Monthly","Premium",1,5,1,1,1,52,0
+50,71,1309,"Annual","Value Seekers",3,2,0,0,0,57,0
+15,75,1426,"Annual","Premium",3,4,1,0,0,53,0
+16,64,1706,"Annual","Value Seekers",0,0,0,0,0,81,0
+21,59,1388,"Monthly","Value Seekers",1,3,1,1,0,81,0
+19,89,1716,"Annual","Value Seekers",1,4,1,0,1,91,0
+45,71,1537,"Monthly","Value Seekers",0,2,0,0,0,90,0
+12,5,1147,"Quarterly","Value Seekers",2,5,0,1,0,27,1
+17,61,1739,"Quarterly","Premium",1,5,0,1,0,72,0
+14,55,400,"Quarterly","Value Seekers",1,1,1,0,0,80,0
+48,70,1233,"Monthly","Premium",3,6,0,0,0,59,0
+40,73,1004,"Monthly","Value Seekers",3,3,1,1,1,62,0
+6,74,1534,"Monthly","Value Seekers",1,1,0,1,0,58,0
+47,81,1284,"Monthly","Price Sensitive",2,6,0,0,0,50,0
+30,41,1761,"Monthly","Price Sensitive",2,3,1,0,0,38,0
+26,30,1252,"Monthly","Price Sensitive",2,4,0,1,1,47,0
+19,62,1347,"Monthly","Value Seekers",4,3,0,0,0,33,0
+7,59,1460,"Monthly","Value Seekers",2,2,1,0,0,67,0
+22,81,1863,"Annual","Value Seekers",2,4,0,1,1,72,0
+13,93,949,"Quarterly","Premium",3,4,0,0,1,80,0
+33,62,2009,"Monthly","Price Sensitive",2,0,0,0,1,58,0
+50,27,899,"Monthly","Premium",1,3,1,1,0,73,0
+8,95,708,"Quarterly","Premium",4,4,0,0,1,80,0
+16,74,1737,"Annual","Value Seekers",0,2,0,1,0,80,0
+8,61,1412,"Monthly","Price Sensitive",3,2,0,0,0,79,0
+39,80,986,"Annual","Price Sensitive",2,2,0,0,1,94,0
+13,66,1797,"Quarterly","Premium",2,1,0,1,0,82,0
+43,117,1459,"Quarterly","Price Sensitive",0,4,1,0,0,89,0
+23,52,837,"Quarterly","Price Sensitive",2,1,0,1,1,71,0
+12,67,1337,"Annual","Price Sensitive",3,1,0,1,1,73,0
+3,40,1180,"Annual","Premium",1,1,0,1,1,88,0
+20,33,719,"Quarterly","Value Seekers",2,3,0,0,0,62,0
+27,81,1480,"Annual","Value Seekers",1,2,0,0,1,77,0
+19,94,1320,"Annual","Value Seekers",2,2,0,0,1,81,0
+15,81,1305,"Monthly","Premium",2,3,1,1,1,75,0
+29,34,875,"Annual","Value Seekers",5,3,0,1,0,46,1
+15,74,1177,"Monthly","Price Sensitive",2,2,0,0,0,76,0
+18,43,1031,"Monthly","Price Sensitive",4,4,0,0,1,30,1
+8,74,779,"Quarterly","Value Seekers",0,1,1,1,1,71,0
+1,17,1139,"Annual","Price Sensitive",6,0,0,1,0,48,1
+24,92,599,"Monthly","Value Seekers",0,0,1,1,0,77,0
+14,106,1235,"Monthly","Value Seekers",1,2,0,1,0,94,0
+60,68,446,"Quarterly","Value Seekers",3,0,0,0,0,78,0
+17,94,1177,"Quarterly","Value Seekers",3,1,0,0,1,93,0
+56,48,1223,"Monthly","Premium",6,3,1,1,1,31,1
+21,61,300,"Monthly","Value Seekers",2,2,0,0,0,58,0
+16,83,2095,"Quarterly","Price Sensitive",4,1,0,0,0,59,0
+8,66,1411,"Monthly","Price Sensitive",2,5,0,0,0,64,0
+5,37,852,"Annual","Price Sensitive",2,3,0,0,0,59,0
+45,61,2020,"Monthly","Price Sensitive",0,3,1,1,1,82,0
+18,57,1892,"Monthly","Premium",0,1,1,1,1,84,0
+31,55,438,"Monthly","Value Seekers",3,2,1,1,0,51,1
+25,82,1182,"Monthly","Premium",3,5,0,1,0,81,0
+41,98,816,"Monthly","Value Seekers",2,3,0,1,0,87,0
+9,70,1458,"Annual","Price Sensitive",2,2,0,1,0,82,0
+23,73,316,"Monthly","Price Sensitive",1,1,1,1,0,82,0
+10,80,1904,"Quarterly","Value Seekers",3,2,1,1,0,62,0
+4,65,634,"Monthly","Premium",1,2,0,1,1,76,0
+32,114,1004,"Monthly","Value Seekers",3,2,0,0,1,100,0
+3,71,1387,"Monthly","Price Sensitive",1,1,1,1,0,68,0
+31,72,1790,"Annual","Price Sensitive",3,2,0,0,1,54,0
+28,102,1029,"Monthly","Price Sensitive",3,2,0,0,0,71,0
+42,15,1090,"Annual","Price Sensitive",1,2,1,0,0,64,0
+18,75,1770,"Quarterly","Price Sensitive",2,2,1,0,0,45,0
+20,56,2014,"Quarterly","Value Seekers",0,1,1,0,0,80,0
+26,53,1591,"Monthly","Premium",3,2,0,1,1,61,1
+10,62,1245,"Monthly","Premium",2,3,1,1,0,72,0
+10,120,1259,"Monthly","Price Sensitive",1,4,0,0,1,79,0
+9,75,877,"Quarterly","Price Sensitive",0,3,0,0,0,87,0
+22,57,529,"Monthly","Premium",1,5,0,0,0,51,0
+25,38,1842,"Quarterly","Price Sensitive",1,3,0,0,1,54,0
+17,109,1203,"Monthly","Value Seekers",0,5,0,1,1,69,0
+28,44,1751,"Monthly","Value Seekers",2,1,0,1,0,63,0
+20,74,2104,"Quarterly","Value Seekers",2,6,0,0,0,56,0
+13,82,1210,"Monthly","Price Sensitive",2,3,1,1,0,73,0
+18,81,1430,"Monthly","Value Seekers",5,2,1,0,0,51,1
+49,50,756,"Quarterly","Premium",3,0,1,1,0,77,0
+9,46,1404,"Annual","Price Sensitive",3,4,0,1,0,48,0
+12,41,1012,"Monthly","Premium",0,1,1,1,0,68,0
+54,72,774,"Monthly","Price Sensitive",1,0,1,0,1,80,0
+31,71,1163,"Quarterly","Price Sensitive",0,5,1,1,1,66,0
+18,61,705,"Monthly","Premium",3,0,1,1,1,72,0
+17,37,1330,"Monthly","Value Seekers",0,2,0,0,0,64,0
+23,32,1267,"Quarterly","Price Sensitive",2,5,0,0,1,59,0
+33,90,1530,"Quarterly","Value Seekers",0,0,1,0,0,100,0
+35,64,1377,"Monthly","Price Sensitive",2,7,0,0,0,65,0
+25,68,623,"Annual","Premium",2,8,0,1,1,75,0
+9,84,300,"Monthly","Value Seekers",2,2,0,1,0,66,0
+32,75,1687,"Quarterly","Price Sensitive",2,3,1,0,0,56,0
+12,44,1574,"Annual","Price Sensitive",0,3,0,0,1,63,0
+16,39,1415,"Monthly","Premium",0,2,0,1,1,60,0
+23,30,696,"Quarterly","Premium",1,2,0,0,1,77,0
+27,42,799,"Monthly","Premium",2,2,1,1,0,71,0
+10,68,873,"Quarterly","Premium",1,3,0,1,0,71,0
+36,72,1236,"Quarterly","Price Sensitive",0,4,1,0,1,71,0
+8,43,1875,"Annual","Value Seekers",1,2,0,1,1,77,0
+40,98,1890,"Quarterly","Price Sensitive",1,1,0,0,0,74,0
+2,73,1355,"Quarterly","Price Sensitive",3,4,1,1,0,48,1
+34,116,740,"Annual","Value Seekers",3,2,1,0,0,80,0
+11,82,1618,"Quarterly","Premium",3,2,0,0,0,75,0
+20,63,1081,"Annual","Value Seekers",1,1,0,1,1,85,0
+8,86,590,"Quarterly","Value Seekers",4,0,0,1,0,70,0
+38,73,762,"Monthly","Value Seekers",1,3,1,0,0,71,0
+34,76,916,"Quarterly","Value Seekers",3,3,0,0,1,61,0
+11,94,1055,"Quarterly","Premium",2,2,0,1,0,78,0
+17,99,1807,"Annual","Premium",1,1,0,0,1,99,0
+14,67,1564,"Monthly","Price Sensitive",2,0,1,0,0,36,0
+14,67,1109,"Monthly","Price Sensitive",1,4,1,0,0,74,0
+34,75,1990,"Quarterly","Value Seekers",4,2,0,1,0,57,0
+31,52,1904,"Monthly","Value Seekers",3,2,0,0,0,54,0
+37,98,1199,"Quarterly","Value Seekers",2,2,0,0,0,78,0
+18,85,1080,"Annual","Price Sensitive",2,2,0,1,1,88,0
+38,42,1697,"Monthly","Value Seekers",0,1,0,0,0,55,0
+10,59,2590,"Annual","Price Sensitive",1,5,0,0,0,65,0
+11,68,300,"Monthly","Premium",1,2,0,1,1,67,0
+19,90,948,"Quarterly","Value Seekers",1,2,0,0,1,83,0
+32,87,991,"Annual","Premium",1,4,1,0,1,63,0
+30,94,1911,"Annual","Premium",1,1,0,0,1,96,0
+14,99,1872,"Monthly","Premium",3,2,0,0,0,70,0
+21,72,1214,"Quarterly","Value Seekers",1,2,1,1,0,73,0
+16,66,908,"Monthly","Price Sensitive",5,5,0,0,1,32,1
+16,62,1000,"Monthly","Price Sensitive",1,4,0,0,0,61,0
+9,61,1415,"Monthly","Price Sensitive",1,4,1,1,1,45,1
+4,98,1436,"Monthly","Price Sensitive",3,5,0,1,1,58,0
+11,113,580,"Annual","Price Sensitive",3,5,1,0,1,74,0
+16,93,1256,"Annual","Value Seekers",2,1,1,0,0,74,0
+13,82,1390,"Quarterly","Value Seekers",0,1,1,1,0,79,0
+15,112,1135,"Monthly","Value Seekers",1,1,0,1,0,87,0
+34,62,1421,"Annual","Price Sensitive",1,1,1,0,1,87,0
+6,33,759,"Quarterly","Value Seekers",1,0,0,1,0,72,0
+72,17,1014,"Quarterly","Value Seekers",1,3,0,1,0,44,0
+44,56,2310,"Monthly","Price Sensitive",1,5,0,1,0,58,0
+60,55,1549,"Monthly","Value Seekers",2,1,0,0,1,57,0
+48,57,1188,"Annual","Price Sensitive",1,1,1,0,0,81,0
+31,57,1733,"Monthly","Value Seekers",3,1,0,1,0,78,0
+39,57,1360,"Annual","Premium",5,3,0,0,1,43,0
+14,39,1410,"Monthly","Value Seekers",1,4,0,1,0,49,0
+22,91,2097,"Quarterly","Price Sensitive",3,2,0,0,0,57,0
+34,52,470,"Monthly","Value Seekers",1,2,1,0,1,57,1
+14,59,1565,"Monthly","Price Sensitive",0,4,0,1,1,75,0
+12,45,622,"Monthly","Premium",1,3,0,0,0,62,0
+32,16,520,"Monthly","Premium",0,0,1,0,1,50,0
+6,70,409,"Monthly","Premium",2,2,0,1,0,66,0
+39,81,1065,"Annual","Price Sensitive",1,3,0,1,1,61,0
+29,50,932,"Quarterly","Value Seekers",2,1,0,0,0,67,0
+17,98,1660,"Quarterly","Value Seekers",2,2,0,0,0,69,0
+18,77,1761,"Monthly","Premium",1,3,0,0,0,61,0
+12,25,787,"Monthly","Premium",1,2,0,1,1,71,0
+13,91,1157,"Annual","Price Sensitive",2,1,0,0,1,81,0
+20,111,300,"Monthly","Price Sensitive",5,1,1,0,0,65,0
+14,47,717,"Monthly","Value Seekers",2,4,1,1,0,50,1
+16,43,1946,"Monthly","Value Seekers",1,3,0,0,1,70,0
+15,66,1373,"Annual","Price Sensitive",5,3,0,0,0,60,0
+36,70,1130,"Monthly","Value Seekers",0,2,0,0,0,77,0
+5,59,947,"Quarterly","Premium",3,5,1,0,0,24,0
+38,61,756,"Quarterly","Price Sensitive",1,3,0,0,0,61,0
+24,59,883,"Monthly","Premium",3,3,0,0,0,51,0
+6,78,1491,"Monthly","Price Sensitive",0,2,0,1,1,72,0
+12,77,1343,"Monthly","Price Sensitive",4,1,1,1,0,50,1
+21,72,2181,"Quarterly","Price Sensitive",4,5,0,1,1,45,1
+19,71,1176,"Monthly","Price Sensitive",2,2,1,0,1,60,0
+11,63,1408,"Quarterly","Premium",3,1,0,0,1,56,0
+19,70,894,"Quarterly","Price Sensitive",0,5,1,0,0,65,0
+24,95,1079,"Annual","Price Sensitive",2,2,0,1,1,82,0
+72,89,1446,"Quarterly","Price Sensitive",2,3,0,0,1,81,0
+11,40,1737,"Quarterly","Value Seekers",3,3,0,1,0,40,1
+15,83,2089,"Monthly","Value Seekers",2,1,1,0,0,71,0
+46,41,1047,"Monthly","Value Seekers",1,0,0,1,0,71,0
+37,55,729,"Quarterly","Value Seekers",3,0,0,0,1,58,0
+32,88,1001,"Annual","Price Sensitive",0,2,0,0,1,80,0
+32,70,1740,"Quarterly","Premium",0,0,0,0,0,97,0
+8,88,1529,"Monthly","Value Seekers",1,4,1,0,0,66,0
+12,58,1214,"Monthly","Price Sensitive",4,4,0,1,0,49,1
+10,65,1764,"Monthly","Value Seekers",0,1,0,1,1,85,0
+30,6,1219,"Annual","Premium",2,3,0,0,0,50,0
+6,68,2039,"Monthly","Value Seekers",5,0,1,0,0,76,0
+36,73,669,"Quarterly","Value Seekers",1,1,1,0,1,75,0
+37,97,1132,"Quarterly","Value Seekers",4,5,0,1,0,59,0
+34,120,1342,"Quarterly","Price Sensitive",0,0,0,0,0,100,0
+27,67,1467,"Quarterly","Premium",2,3,0,0,0,73,0
+35,48,1922,"Annual","Price Sensitive",2,3,0,0,1,64,0
+15,69,1095,"Quarterly","Value Seekers",4,2,0,1,1,43,1
+21,39,1336,"Annual","Price Sensitive",2,0,0,1,0,73,0
+16,69,1593,"Monthly","Premium",3,1,0,0,0,75,0
+36,63,795,"Monthly","Price Sensitive",3,4,0,1,0,51,1
+24,80,623,"Quarterly","Premium",6,2,1,0,1,51,1
+17,61,593,"Annual","Premium",1,2,0,0,0,72,0
+26,73,1470,"Annual","Premium",0,3,0,0,0,91,0
+36,98,966,"Quarterly","Premium",0,1,0,1,1,100,0
+11,61,1009,"Quarterly","Price Sensitive",0,2,0,0,0,64,0
+3,56,874,"Monthly","Price Sensitive",3,2,0,0,0,56,1
+20,82,1469,"Quarterly","Premium",1,1,0,1,1,100,0
+9,27,1112,"Monthly","Price Sensitive",2,1,0,1,0,65,0
+45,63,877,"Annual","Price Sensitive",1,0,1,0,0,80,0
+13,24,1785,"Monthly","Value Seekers",1,0,0,1,0,73,1
+40,50,1274,"Annual","Price Sensitive",0,2,0,0,1,74,0
+18,112,1154,"Monthly","Premium",2,3,0,0,0,77,0
+9,98,915,"Quarterly","Price Sensitive",6,5,1,0,0,22,1
+16,96,2406,"Monthly","Value Seekers",1,0,1,1,0,80,0
+4,93,1165,"Monthly","Price Sensitive",1,4,0,1,0,67,0
+39,84,1522,"Monthly","Price Sensitive",0,2,0,0,0,91,0
+23,33,1180,"Monthly","Price Sensitive",0,5,1,0,1,53,0
+38,90,800,"Monthly","Premium",1,5,0,1,1,83,0
+8,69,814,"Annual","Premium",1,3,0,1,0,77,0
+2,41,1779,"Monthly","Value Seekers",4,6,1,0,1,51,1
+45,90,1018,"Monthly","Price Sensitive",1,1,0,1,0,93,0
+17,71,566,"Monthly","Price Sensitive",1,3,0,0,0,70,0
+43,66,1217,"Quarterly","Price Sensitive",2,1,0,1,0,66,0
+47,89,1288,"Quarterly","Value Seekers",2,4,0,1,1,69,0
+34,75,777,"Annual","Price Sensitive",0,0,0,0,1,100,0
+20,28,1809,"Monthly","Price Sensitive",0,0,0,0,0,62,0
+11,63,1938,"Monthly","Price Sensitive",0,2,0,0,0,96,0
+42,42,1569,"Monthly","Price Sensitive",0,3,1,0,1,70,0
+15,97,1679,"Annual","Premium",5,3,1,0,0,55,0
+41,105,638,"Monthly","Premium",1,2,1,1,0,79,0
+24,39,1191,"Monthly","Price Sensitive",5,2,1,0,0,40,1
+23,64,2149,"Annual","Value Seekers",3,1,0,1,0,77,0
+7,60,663,"Monthly","Price Sensitive",2,3,0,0,1,66,1
+40,86,1295,"Monthly","Price Sensitive",1,2,1,0,0,62,0
+7,61,759,"Monthly","Price Sensitive",3,0,1,0,0,60,0
+21,70,1443,"Quarterly","Value Seekers",2,3,0,0,1,66,0
+11,67,1866,"Quarterly","Premium",2,4,0,1,0,73,0
+18,28,958,"Monthly","Premium",2,1,1,1,1,57,0
+23,50,1414,"Monthly","Value Seekers",1,4,1,0,0,60,0
+39,47,520,"Quarterly","Price Sensitive",1,1,0,0,0,74,0
+23,35,936,"Monthly","Value Seekers",3,3,1,0,0,40,1
+33,57,1496,"Quarterly","Price Sensitive",0,1,0,0,0,79,0
+16,38,1509,"Quarterly","Price Sensitive",3,2,1,0,0,67,0
+24,89,303,"Quarterly","Price Sensitive",3,4,1,1,0,66,1
+19,64,1172,"Quarterly","Value Seekers",4,2,1,0,1,38,0
+32,64,865,"Quarterly","Price Sensitive",2,3,0,1,1,52,1
+25,75,1345,"Quarterly","Premium",2,1,0,1,0,63,0
+63,57,534,"Quarterly","Premium",2,4,1,0,1,52,0
+17,79,818,"Annual","Price Sensitive",1,3,0,1,0,68,0
+6,93,1316,"Quarterly","Value Seekers",1,6,0,1,1,71,0
+13,54,930,"Monthly","Price Sensitive",1,2,0,0,0,62,0
+10,46,564,"Quarterly","Premium",0,3,0,0,0,65,0
+31,110,1077,"Quarterly","Price Sensitive",3,2,1,0,0,55,0
+27,62,1600,"Quarterly","Price Sensitive",3,5,1,0,1,49,1
+17,75,1019,"Annual","Value Seekers",1,4,0,0,1,66,0
+14,90,1510,"Quarterly","Value Seekers",1,1,0,0,0,97,0
+12,70,1162,"Monthly","Value Seekers",1,1,0,1,0,83,0
+24,35,1307,"Monthly","Price Sensitive",2,3,0,0,0,63,0
+13,45,1775,"Monthly","Value Seekers",3,4,0,0,0,55,1
+12,40,1522,"Monthly","Premium",0,6,0,0,1,56,0
+18,44,1118,"Annual","Value Seekers",2,1,0,0,0,68,0
+5,105,766,"Quarterly","Value Seekers",2,3,1,0,0,74,0
+38,57,1468,"Quarterly","Price Sensitive",2,1,1,1,0,67,0
+30,58,1458,"Quarterly","Value Seekers",3,1,0,1,0,70,0
+30,71,1397,"Quarterly","Price Sensitive",0,4,0,0,0,82,0
+43,38,868,"Quarterly","Price Sensitive",3,4,0,0,1,42,1
+13,51,1432,"Monthly","Premium",1,4,0,0,0,68,0
+9,63,1621,"Annual","Premium",2,3,0,1,0,83,0
+12,43,901,"Monthly","Value Seekers",1,4,0,1,0,65,0
+19,45,1816,"Annual","Value Seekers",3,3,0,1,0,54,0
+48,19,1404,"Quarterly","Premium",0,1,0,0,0,68,0
+7,27,970,"Monthly","Premium",4,2,0,0,0,49,1
+21,79,1020,"Quarterly","Premium",1,7,0,0,0,81,0
+26,57,1193,"Monthly","Price Sensitive",1,1,1,0,0,62,0
+71,73,1568,"Monthly","Premium",0,0,0,0,1,83,0
+20,5,1400,"Annual","Price Sensitive",2,2,1,1,0,49,0
+17,53,1886,"Quarterly","Value Seekers",2,1,0,0,1,51,0
+6,87,1442,"Quarterly","Premium",1,2,0,0,0,84,0
+25,46,592,"Quarterly","Premium",1,3,0,1,1,75,0
+29,95,772,"Quarterly","Premium",1,1,0,1,0,98,0
+17,62,1940,"Annual","Price Sensitive",0,3,1,0,0,69,0
+18,67,1428,"Monthly","Price Sensitive",3,1,1,0,0,69,0
+6,64,1843,"Annual","Price Sensitive",3,4,1,1,0,68,0
+5,70,1374,"Monthly","Value Seekers",2,4,0,0,1,68,0
+12,73,940,"Monthly","Price Sensitive",1,3,0,0,1,67,0
+52,47,950,"Monthly","Price Sensitive",2,0,0,0,1,83,0
+11,73,1113,"Monthly","Value Seekers",2,2,1,0,0,49,0
+4,38,673,"Annual","Premium",1,1,0,1,1,77,0
+12,87,1653,"Annual","Price Sensitive",4,2,0,0,0,84,0
+51,94,813,"Monthly","Value Seekers",3,2,0,0,1,68,0
+21,76,1717,"Monthly","Price Sensitive",3,1,0,1,0,79,0
+12,40,1898,"Annual","Price Sensitive",5,2,1,0,1,68,0
+26,51,1491,"Monthly","Premium",0,4,0,0,0,61,0
+36,25,989,"Monthly","Value Seekers",5,2,0,0,0,29,1
+10,90,300,"Monthly","Value Seekers",1,0,0,0,0,87,0
+11,56,1155,"Monthly","Value Seekers",1,2,0,0,0,66,0
+20,74,1440,"Monthly","Premium",3,1,0,0,0,82,0
+9,58,1631,"Quarterly","Value Seekers",2,3,1,1,0,47,0
+8,46,1790,"Monthly","Price Sensitive",1,5,1,0,1,46,0
+2,50,1809,"Monthly","Premium",0,4,0,0,0,65,0
+17,68,1748,"Monthly","Value Seekers",5,1,0,1,0,48,0
+29,55,1340,"Monthly","Premium",1,2,0,0,1,72,0
+26,65,1757,"Annual","Value Seekers",0,1,0,0,1,86,0
+14,52,825,"Quarterly","Value Seekers",3,2,1,1,0,43,0
+18,59,1245,"Monthly","Premium",1,0,0,0,1,93,0
+55,102,1395,"Annual","Price Sensitive",3,1,0,0,0,70,0
+9,67,1447,"Quarterly","Premium",0,2,0,0,0,71,0
+14,71,1108,"Annual","Premium",1,1,1,0,1,99,0
+14,69,1609,"Monthly","Value Seekers",5,1,0,0,0,54,0
+10,71,1289,"Annual","Value Seekers",3,1,0,0,1,83,0
+17,87,915,"Monthly","Premium",0,0,0,1,1,90,0
+44,77,2021,"Quarterly","Price Sensitive",2,2,1,0,1,70,0
+14,29,1024,"Monthly","Premium",2,3,1,0,1,59,1
+13,84,1090,"Monthly","Value Seekers",2,5,1,0,0,47,0
+6,55,1567,"Monthly","Value Seekers",1,1,1,1,1,56,0
+6,76,1117,"Monthly","Price Sensitive",2,4,1,1,1,55,0
+18,57,904,"Annual","Premium",2,3,1,0,0,70,0
+47,44,2163,"Annual","Premium",2,0,0,0,0,62,0
+15,54,1545,"Annual","Premium",1,1,0,0,0,91,0
+12,49,850,"Monthly","Premium",1,3,0,0,0,70,0
+19,62,979,"Annual","Value Seekers",1,2,0,1,0,76,0
+8,60,1337,"Annual","Value Seekers",2,1,1,0,0,62,0
+14,40,1373,"Quarterly","Value Seekers",0,0,0,0,0,70,0
+16,81,921,"Monthly","Premium",4,1,0,1,1,74,1
+35,80,1335,"Monthly","Premium",1,6,1,1,1,52,1
+9,59,452,"Monthly","Price Sensitive",1,1,1,1,0,73,0
+9,29,1059,"Monthly","Value Seekers",3,2,0,0,0,41,0
+43,45,800,"Monthly","Price Sensitive",0,5,0,1,0,53,0
+6,78,993,"Quarterly","Premium",3,1,1,1,0,63,0
+5,61,1417,"Quarterly","Price Sensitive",0,1,0,0,0,96,0
+4,85,1908,"Monthly","Value Seekers",2,2,0,0,0,80,0
+14,54,1364,"Quarterly","Premium",1,6,0,0,0,59,0
+34,61,1405,"Monthly","Value Seekers",3,4,0,1,0,50,0
+29,33,908,"Quarterly","Price Sensitive",1,6,0,1,0,40,0
+19,90,1536,"Quarterly","Value Seekers",2,2,0,0,1,72,0
+33,65,1465,"Quarterly","Premium",2,3,0,0,0,53,0
+31,65,1564,"Monthly","Price Sensitive",4,2,0,0,1,49,1
+72,29,597,"Monthly","Value Seekers",1,4,1,0,1,60,0
+18,78,1082,"Monthly","Value Seekers",2,3,0,0,1,78,0
+16,29,979,"Annual","Value Seekers",1,1,0,1,0,66,0
+33,128,406,"Quarterly","Price Sensitive",3,1,0,0,1,87,0
+12,76,1185,"Monthly","Premium",2,0,0,0,1,78,0
+15,38,847,"Monthly","Price Sensitive",3,3,0,0,0,35,0
+14,55,810,"Annual","Value Seekers",1,1,0,1,0,79,0
+15,63,1019,"Monthly","Price Sensitive",0,2,0,0,0,79,0
+32,66,1232,"Quarterly","Value Seekers",4,2,1,0,0,41,0
+29,69,648,"Annual","Price Sensitive",1,1,0,1,0,100,0
+32,64,1437,"Quarterly","Value Seekers",0,0,0,0,0,82,0
+6,55,1152,"Monthly","Price Sensitive",3,2,1,0,1,59,0
+71,71,1924,"Annual","Price Sensitive",4,5,0,0,1,61,0
+35,67,1266,"Annual","Value Seekers",3,4,0,1,0,49,0
+21,49,323,"Monthly","Price Sensitive",4,3,0,1,0,36,1
+26,60,1276,"Quarterly","Value Seekers",3,3,1,0,0,48,0
+8,67,1005,"Quarterly","Price Sensitive",1,3,0,0,0,89,0
+4,58,390,"Annual","Price Sensitive",2,1,0,1,0,76,0
+11,49,1602,"Quarterly","Value Seekers",1,0,1,0,0,67,0
+6,86,1014,"Monthly","Value Seekers",1,2,0,1,0,84,0
+11,69,474,"Quarterly","Value Seekers",2,4,0,0,1,60,0
+6,77,1354,"Monthly","Value Seekers",4,1,0,0,0,72,0
+16,78,1424,"Monthly","Value Seekers",2,1,0,0,1,95,0
+23,91,1005,"Quarterly","Price Sensitive",7,1,0,0,1,60,0
+7,82,1666,"Monthly","Premium",0,3,1,0,0,87,0
+6,36,1028,"Quarterly","Value Seekers",3,3,1,1,0,60,1
+18,33,1014,"Annual","Price Sensitive",0,5,1,0,0,47,0
+13,60,1411,"Quarterly","Premium",0,4,1,1,0,55,0
+17,82,1442,"Monthly","Value Seekers",2,1,0,0,1,69,0
+7,77,2245,"Quarterly","Premium",4,4,0,1,1,55,0
+22,92,926,"Quarterly","Value Seekers",1,2,0,0,1,80,0
+18,57,1294,"Monthly","Price Sensitive",5,3,1,1,0,45,1
+27,43,1435,"Monthly","Premium",0,3,0,1,0,68,0
+16,36,646,"Quarterly","Premium",3,2,0,0,0,53,0
+13,96,338,"Quarterly","Price Sensitive",2,3,1,0,1,65,0
+20,102,970,"Monthly","Premium",4,2,0,0,0,75,0
+0,46,2269,"Annual","Price Sensitive",1,3,0,0,0,69,0
+11,50,960,"Monthly","Value Seekers",3,4,0,1,1,25,1
+19,113,1244,"Monthly","Value Seekers",0,0,0,1,0,100,0
+21,44,1644,"Annual","Price Sensitive",1,5,0,1,1,69,0
+34,44,1269,"Annual","Price Sensitive",1,5,0,0,0,75,0
+58,41,1598,"Monthly","Value Seekers",2,1,0,1,0,52,0
+14,37,906,"Monthly","Value Seekers",4,3,0,0,0,40,1
+6,51,1444,"Monthly","Price Sensitive",3,1,0,1,0,48,0
+18,103,644,"Monthly","Price Sensitive",4,3,0,0,0,59,0
+21,55,1589,"Annual","Value Seekers",0,2,0,0,1,100,0
+39,28,796,"Quarterly","Premium",4,1,1,0,1,52,1
+31,76,1454,"Annual","Price Sensitive",0,1,1,1,1,100,0
+12,21,1488,"Monthly","Premium",0,6,0,1,0,54,0
+13,48,989,"Quarterly","Price Sensitive",1,2,0,0,0,74,0
+22,91,1756,"Monthly","Premium",1,5,0,0,1,83,0
+12,61,1053,"Monthly","Price Sensitive",1,2,0,0,0,56,0
+46,11,2035,"Quarterly","Value Seekers",1,2,0,0,0,47,0
+11,93,476,"Annual","Price Sensitive",1,2,1,1,0,79,0
+19,32,851,"Quarterly","Value Seekers",1,1,0,0,0,70,0
+26,61,1434,"Monthly","Price Sensitive",2,5,0,0,0,54,0
+19,73,1522,"Monthly","Value Seekers",1,3,0,1,0,67,0
+16,33,1352,"Quarterly","Value Seekers",2,1,1,0,0,63,0
+8,47,1478,"Annual","Premium",4,2,1,1,0,39,0
+41,61,1575,"Monthly","Premium",1,1,0,1,0,83,0
+16,55,449,"Monthly","Price Sensitive",1,2,1,1,0,76,1
+5,71,2008,"Monthly","Premium",2,2,0,1,0,68,0
+29,65,961,"Monthly","Price Sensitive",2,1,0,0,0,82,0
+21,32,1471,"Quarterly","Price Sensitive",2,2,1,0,1,62,0
+4,35,994,"Monthly","Premium",0,0,1,1,0,70,0
+24,53,1620,"Monthly","Value Seekers",2,0,0,0,1,76,0
+5,69,1030,"Monthly","Value Seekers",3,1,0,0,1,74,0
+33,99,1158,"Monthly","Premium",3,3,0,0,0,60,0
+6,100,1548,"Annual","Value Seekers",2,4,1,0,1,72,0
+16,65,2172,"Monthly","Premium",5,3,1,0,0,43,0
+30,23,1033,"Monthly","Value Seekers",0,4,1,0,1,45,1
+32,84,1597,"Monthly","Price Sensitive",1,2,0,1,0,72,0
+42,89,797,"Monthly","Price Sensitive",1,1,0,0,1,71,0
+19,56,1543,"Monthly","Price Sensitive",0,1,1,0,1,98,0
+29,71,952,"Annual","Value Seekers",0,3,0,1,0,87,0
+8,47,1625,"Monthly","Value Seekers",3,6,0,1,1,40,0
+23,64,1504,"Annual","Premium",2,3,0,0,0,82,0
+19,72,1693,"Annual","Price Sensitive",1,0,0,1,0,100,0
+22,84,1057,"Annual","Value Seekers",1,1,0,0,0,86,0
+16,77,1114,"Monthly","Premium",2,3,0,0,0,69,0
+21,73,971,"Monthly","Price Sensitive",0,2,0,0,0,69,0
+24,37,811,"Annual","Price Sensitive",1,5,0,0,0,74,0
+10,95,749,"Monthly","Price Sensitive",1,3,1,1,1,83,0
+16,13,727,"Monthly","Price Sensitive",4,0,0,0,1,55,0
+4,46,1665,"Quarterly","Price Sensitive",1,4,0,0,1,56,0
+25,91,464,"Quarterly","Value Seekers",0,1,1,0,0,96,0
+18,49,771,"Annual","Price Sensitive",1,0,0,1,0,66,0
+14,56,1045,"Quarterly","Price Sensitive",4,3,0,0,1,37,0
+44,117,1545,"Quarterly","Value Seekers",1,0,0,0,1,94,0
+14,86,380,"Annual","Premium",5,4,0,1,0,53,0
+15,34,1582,"Quarterly","Value Seekers",1,2,0,1,0,71,0
+8,54,1114,"Monthly","Price Sensitive",2,2,0,0,0,72,0
+17,45,1329,"Quarterly","Value Seekers",2,1,0,1,0,65,0
+20,67,931,"Annual","Price Sensitive",1,2,0,0,0,75,0
+10,35,1056,"Annual","Value Seekers",2,1,1,1,0,59,0
+13,59,1467,"Quarterly","Value Seekers",4,3,0,0,0,73,0
+24,96,1341,"Monthly","Price Sensitive",1,3,0,0,0,71,0
+24,80,1016,"Monthly","Value Seekers",4,2,0,0,0,78,0
+37,76,600,"Annual","Price Sensitive",3,4,1,1,0,62,0
+30,53,1620,"Quarterly","Price Sensitive",1,2,0,1,0,78,0
+12,58,1324,"Annual","Value Seekers",3,2,0,1,0,69,0
+22,74,300,"Quarterly","Price Sensitive",2,1,0,1,1,51,0
+41,35,406,"Annual","Price Sensitive",5,1,0,0,0,64,0
+26,8,820,"Monthly","Price Sensitive",2,1,0,0,1,53,0
+20,57,1188,"Monthly","Value Seekers",2,5,0,1,0,69,0
+9,57,421,"Monthly","Price Sensitive",1,3,0,0,1,73,0
+72,83,1278,"Quarterly","Price Sensitive",1,2,0,0,0,71,0
+39,53,1273,"Monthly","Value Seekers",1,2,1,1,0,61,0
+20,48,1590,"Quarterly","Value Seekers",1,0,0,1,0,80,0
+22,76,1454,"Quarterly","Value Seekers",2,3,0,1,1,57,0
+21,49,1368,"Monthly","Price Sensitive",5,2,0,0,0,39,0
+12,99,1341,"Annual","Value Seekers",2,1,0,1,0,90,0
+45,42,1886,"Annual","Premium",4,2,0,1,0,66,0
+8,83,1427,"Monthly","Premium",0,3,0,1,0,83,0
+26,20,1396,"Monthly","Value Seekers",2,0,0,0,1,58,0
+16,98,384,"Quarterly","Value Seekers",1,4,0,0,0,86,0
+11,62,1496,"Quarterly","Price Sensitive",0,2,0,1,0,54,0
+25,20,1030,"Monthly","Price Sensitive",1,2,1,1,1,57,1
+38,33,949,"Quarterly","Value Seekers",4,2,0,1,1,41,1
+43,61,789,"Monthly","Price Sensitive",2,2,0,0,0,69,0
+12,103,1338,"Annual","Premium",0,2,1,0,0,96,0
+29,52,2018,"Quarterly","Price Sensitive",1,6,0,0,0,71,0
+8,61,1597,"Monthly","Value Seekers",2,1,0,1,0,73,0
+26,84,1123,"Monthly","Premium",0,1,0,1,0,100,0
+15,64,1515,"Annual","Premium",4,4,0,1,0,77,0
+40,59,1336,"Quarterly","Value Seekers",1,2,0,0,1,63,0
+32,63,1357,"Quarterly","Price Sensitive",3,0,1,0,0,53,0
+31,57,622,"Annual","Premium",1,2,0,1,0,63,0
+8,69,1068,"Monthly","Price Sensitive",1,4,1,0,0,39,1
+28,74,1647,"Quarterly","Price Sensitive",2,7,0,0,0,61,0
+48,29,2123,"Annual","Value Seekers",1,2,0,0,1,74,0
+13,57,785,"Monthly","Premium",1,2,0,0,0,86,0
+2,46,1284,"Annual","Premium",0,2,0,1,0,90,0
+21,76,1177,"Monthly","Value Seekers",0,2,1,0,1,76,0
+18,63,1812,"Quarterly","Value Seekers",0,0,1,0,0,67,0
+7,35,1123,"Monthly","Premium",0,0,1,0,0,62,0
+16,73,971,"Monthly","Value Seekers",0,3,0,0,0,70,0
+22,17,1032,"Quarterly","Value Seekers",2,4,1,0,1,36,1
+17,85,300,"Monthly","Price Sensitive",2,1,0,0,0,74,0
+27,30,1790,"Monthly","Price Sensitive",1,2,0,1,0,61,0
+21,103,1827,"Monthly","Premium",2,2,0,0,1,93,0
+18,51,836,"Annual","Price Sensitive",2,2,1,1,1,62,1
+11,55,1655,"Monthly","Premium",0,2,1,1,0,84,0
+32,38,1612,"Monthly","Price Sensitive",3,0,0,1,0,75,0
+8,25,498,"Annual","Value Seekers",1,0,1,0,1,73,0
+27,70,300,"Monthly","Value Seekers",0,4,0,1,0,83,0
+22,31,1440,"Annual","Price Sensitive",0,2,0,0,1,60,0
+9,81,539,"Quarterly","Price Sensitive",3,2,1,1,0,56,0
+39,20,1439,"Quarterly","Price Sensitive",0,2,0,0,0,58,0
+10,49,790,"Quarterly","Price Sensitive",2,1,0,0,0,68,0
+41,77,623,"Monthly","Price Sensitive",2,3,0,0,0,81,0
+25,60,1800,"Quarterly","Value Seekers",3,1,0,0,0,74,0
+45,78,1315,"Monthly","Premium",1,4,1,0,0,86,0
+32,69,1005,"Quarterly","Price Sensitive",1,2,0,0,0,78,0
+17,64,969,"Quarterly","Premium",1,3,0,1,0,79,0
+34,105,1345,"Annual","Value Seekers",2,4,1,0,0,69,0
+20,42,1456,"Annual","Value Seekers",1,4,1,0,0,50,0
+29,62,1597,"Quarterly","Premium",2,2,1,0,0,74,0
+28,46,1426,"Annual","Value Seekers",0,4,0,1,1,74,0
+34,46,514,"Monthly","Premium",4,3,1,1,1,64,1
+18,58,517,"Monthly","Price Sensitive",2,5,1,1,1,69,1
+9,43,835,"Monthly","Price Sensitive",3,2,0,0,0,53,0
+38,81,1918,"Annual","Price Sensitive",1,6,0,0,1,70,0
+19,83,1469,"Quarterly","Premium",1,2,0,0,1,74,0
+30,74,1671,"Annual","Price Sensitive",2,4,1,0,1,53,0
+36,21,1214,"Annual","Price Sensitive",3,0,0,1,0,66,0
+31,54,1623,"Quarterly","Value Seekers",3,1,0,1,0,68,0
+35,73,735,"Monthly","Price Sensitive",4,2,0,0,0,65,0
+19,60,1249,"Monthly","Premium",2,2,1,1,0,64,0
+15,95,1810,"Monthly","Premium",3,3,0,1,1,75,0
+20,55,658,"Monthly","Premium",1,1,1,0,0,68,0
+20,61,1916,"Annual","Premium",3,4,0,1,0,75,0
+21,70,1325,"Quarterly","Price Sensitive",2,3,1,0,1,64,0
+49,74,1619,"Monthly","Value Seekers",1,1,1,0,1,69,0
+14,73,1088,"Quarterly","Value Seekers",6,3,0,1,0,46,0
+51,53,1470,"Quarterly","Value Seekers",2,4,1,0,0,42,0
+9,95,1326,"Monthly","Premium",2,2,1,1,0,88,0
+20,74,869,"Monthly","Premium",0,4,1,0,0,83,0
+13,72,897,"Monthly","Value Seekers",2,2,0,0,0,53,0
+11,42,1242,"Annual","Value Seekers",2,0,1,0,0,74,0
+19,43,1485,"Annual","Premium",1,1,0,1,1,100,0
+50,50,1677,"Monthly","Premium",3,0,0,0,0,82,0
+51,50,1221,"Monthly","Price Sensitive",0,5,0,0,1,46,1
+21,83,1144,"Monthly","Premium",1,0,0,0,0,85,0
+27,84,1177,"Annual","Price Sensitive",1,5,1,0,0,65,0
+24,81,1254,"Monthly","Value Seekers",1,1,0,1,0,86,0
+17,62,1223,"Monthly","Price Sensitive",1,2,1,0,0,69,0
+17,49,1282,"Monthly","Premium",3,0,0,1,0,67,0
+25,30,1291,"Monthly","Value Seekers",0,1,0,0,1,86,0
+2,36,1168,"Monthly","Premium",2,3,1,0,1,47,1
+31,98,641,"Quarterly","Price Sensitive",0,5,0,0,1,77,0
+44,46,1214,"Quarterly","Price Sensitive",3,4,1,0,1,60,1
+17,43,1308,"Annual","Value Seekers",1,1,0,1,0,66,0
+11,52,1948,"Monthly","Premium",2,4,0,1,0,68,0
+15,43,1167,"Monthly","Premium",1,3,1,0,0,48,0
+8,46,830,"Quarterly","Value Seekers",4,2,1,0,0,45,1
+10,104,300,"Monthly","Price Sensitive",6,2,1,1,0,54,1
+72,48,1193,"Annual","Price Sensitive",1,3,0,0,0,60,0
+48,54,300,"Monthly","Price Sensitive",2,1,1,0,1,50,0
+16,63,758,"Annual","Value Seekers",4,2,1,0,0,46,1
+29,108,312,"Monthly","Price Sensitive",3,4,0,0,1,52,1
+18,56,1059,"Monthly","Price Sensitive",1,3,0,1,0,51,0
+50,70,1613,"Monthly","Value Seekers",5,1,1,0,1,62,0
+27,72,1561,"Quarterly","Value Seekers",2,2,0,0,0,72,0
+5,58,762,"Monthly","Value Seekers",3,4,1,0,1,43,1
+8,16,1340,"Monthly","Value Seekers",3,1,0,0,0,42,0
+6,95,880,"Annual","Premium",1,3,1,1,0,83,0
+36,60,1511,"Annual","Value Seekers",2,1,0,0,0,78,0
+48,74,986,"Quarterly","Price Sensitive",0,1,0,0,1,78,0
+5,49,1464,"Quarterly","Price Sensitive",4,7,0,1,0,23,1
+23,77,797,"Annual","Price Sensitive",0,1,0,0,1,100,0
+27,84,1268,"Monthly","Premium",0,0,0,0,0,100,0
+31,97,815,"Monthly","Premium",1,4,0,0,0,72,0
+24,44,994,"Monthly","Premium",0,3,0,0,1,66,0
+42,70,1615,"Quarterly","Price Sensitive",0,3,0,0,0,68,0
+5,60,1862,"Quarterly","Premium",2,2,1,0,1,60,0
+8,56,1237,"Monthly","Value Seekers",2,1,0,0,1,63,0
+12,44,1475,"Quarterly","Value Seekers",1,3,0,0,0,61,0
+26,78,1547,"Annual","Value Seekers",3,2,0,1,0,66,0
+9,74,876,"Quarterly","Premium",0,2,0,0,1,70,0
+29,107,610,"Quarterly","Price Sensitive",1,1,0,1,0,80,0
+13,18,1383,"Monthly","Value Seekers",2,1,1,0,1,51,1
+7,108,1231,"Annual","Value Seekers",0,3,0,1,0,91,0
+20,52,1245,"Quarterly","Value Seekers",2,0,0,1,1,77,0
+42,90,1064,"Quarterly","Price Sensitive",3,2,1,0,1,67,0
+40,68,540,"Annual","Premium",1,5,0,1,0,72,0
+16,76,1856,"Monthly","Value Seekers",4,2,1,0,0,49,0
+30,70,1061,"Quarterly","Price Sensitive",3,1,0,0,0,72,0
+35,92,1621,"Quarterly","Value Seekers",1,1,0,1,0,88,0
+9,51,874,"Monthly","Premium",3,2,0,1,1,60,0
+17,81,1458,"Quarterly","Value Seekers",2,5,0,0,1,78,0
+18,32,1086,"Quarterly","Price Sensitive",6,1,1,1,1,22,1
+27,46,1510,"Annual","Value Seekers",1,3,0,1,0,73,0
+35,77,1552,"Monthly","Price Sensitive",2,3,1,1,1,66,0
+34,72,1363,"Monthly","Premium",2,4,0,1,0,68,0
+20,60,981,"Monthly","Premium",2,1,0,1,1,70,0
+14,62,1039,"Monthly","Value Seekers",1,5,0,0,1,65,0
+17,69,1037,"Annual","Price Sensitive",1,1,1,0,0,90,0
+35,84,997,"Annual","Premium",2,1,0,0,0,97,0
+11,25,1143,"Monthly","Premium",2,2,0,0,1,71,0
+39,70,1166,"Monthly","Value Seekers",0,6,0,0,0,70,0
+8,30,1490,"Annual","Price Sensitive",3,3,0,1,0,52,0
+10,95,1292,"Monthly","Price Sensitive",1,0,0,1,0,93,0
+16,84,929,"Monthly","Price Sensitive",1,2,0,1,0,75,0
+9,58,1435,"Quarterly","Value Seekers",2,4,1,0,1,53,0
+22,91,1428,"Monthly","Price Sensitive",1,1,1,1,1,84,0
+21,54,1051,"Monthly","Value Seekers",2,2,0,0,0,71,0
+21,16,1350,"Monthly","Value Seekers",2,1,0,1,1,52,0
+7,33,1207,"Monthly","Value Seekers",1,0,0,1,1,75,0
+10,63,1105,"Quarterly","Premium",2,0,0,1,1,71,0
+38,45,1010,"Annual","Value Seekers",0,3,1,0,0,66,0
+17,70,755,"Annual","Premium",2,1,0,0,0,80,0
+33,104,1031,"Quarterly","Value Seekers",4,5,1,0,1,37,0
+13,58,931,"Quarterly","Value Seekers",1,2,0,0,0,68,0
+4,66,855,"Quarterly","Price Sensitive",4,3,1,0,0,35,0
+9,86,1196,"Annual","Premium",1,3,0,0,1,85,0
+19,105,1211,"Monthly","Premium",4,1,0,0,0,74,0
+23,10,1549,"Quarterly","Premium",1,0,1,0,0,57,0
+19,83,1254,"Annual","Value Seekers",1,2,0,1,1,82,0
+26,48,1527,"Monthly","Premium",0,2,1,0,0,80,0
+49,64,973,"Monthly","Value Seekers",2,2,0,1,1,67,0
+25,21,378,"Annual","Value Seekers",2,1,0,1,1,58,0
+4,50,1578,"Monthly","Premium",1,1,1,0,0,79,0
+6,92,376,"Quarterly","Value Seekers",4,2,1,0,0,39,0
+19,81,1650,"Annual","Price Sensitive",1,6,0,0,1,65,0
+11,42,1040,"Annual","Price Sensitive",2,3,0,1,0,49,0
+18,69,1745,"Monthly","Value Seekers",2,2,0,0,0,64,0
+45,57,1470,"Monthly","Premium",4,2,0,1,1,52,1
+14,29,745,"Monthly","Premium",2,1,0,1,0,66,0
+63,49,1183,"Monthly","Premium",0,5,0,1,1,73,0
+16,95,806,"Annual","Premium",2,3,0,0,0,84,0
+14,54,300,"Monthly","Price Sensitive",2,0,0,1,0,73,0
+12,39,1721,"Monthly","Premium",2,1,1,1,1,69,0
+25,80,1146,"Quarterly","Price Sensitive",3,4,1,0,0,72,0
+4,64,1299,"Quarterly","Value Seekers",2,2,1,1,0,47,0
+16,48,485,"Annual","Value Seekers",1,1,0,1,0,71,0
+17,68,1370,"Monthly","Price Sensitive",3,2,1,1,1,60,0
+43,5,858,"Monthly","Price Sensitive",1,2,0,0,1,57,0
+13,80,1140,"Monthly","Value Seekers",1,3,0,0,1,76,0
+17,45,668,"Monthly","Price Sensitive",2,1,1,1,0,81,0
+29,81,1319,"Quarterly","Price Sensitive",1,2,1,0,0,66,0
+30,102,1175,"Monthly","Premium",0,0,0,0,0,91,0
+20,79,1248,"Monthly","Value Seekers",3,2,1,1,0,52,0
+14,64,2451,"Annual","Value Seekers",0,6,0,0,1,74,0
+5,33,1257,"Annual","Value Seekers",2,2,0,1,0,54,0
+31,31,946,"Quarterly","Premium",1,2,0,0,0,71,0
+7,62,1196,"Monthly","Value Seekers",1,3,0,0,0,73,0
+37,39,509,"Quarterly","Value Seekers",0,1,0,1,0,64,0
+15,55,1219,"Monthly","Price Sensitive",0,5,0,1,0,49,0
+18,38,830,"Monthly","Premium",2,2,0,0,1,66,0
+19,100,1129,"Monthly","Value Seekers",1,3,1,0,1,67,0
+27,53,1641,"Monthly","Price Sensitive",4,4,0,0,1,68,0
+28,69,1111,"Monthly","Value Seekers",0,3,0,0,0,74,0
+40,69,1362,"Annual","Value Seekers",3,2,1,1,0,67,0
+14,68,1272,"Monthly","Premium",3,4,1,0,0,64,0
+17,41,2195,"Monthly","Value Seekers",3,2,0,0,1,39,0
+36,69,1798,"Monthly","Premium",3,1,0,0,1,71,0
+24,79,1365,"Quarterly","Value Seekers",4,3,0,1,0,42,1
+12,45,642,"Annual","Price Sensitive",2,1,0,0,1,74,0
+28,125,2073,"Monthly","Value Seekers",1,2,1,0,1,94,0
+33,60,1697,"Monthly","Premium",0,1,0,0,0,100,0
+25,57,1166,"Annual","Value Seekers",1,0,0,0,0,79,0
+21,48,1103,"Annual","Premium",0,5,1,1,1,62,0
+27,94,781,"Annual","Price Sensitive",2,1,0,0,1,97,0
+15,124,1253,"Monthly","Price Sensitive",1,0,0,1,0,100,0
+10,51,1760,"Annual","Premium",3,2,0,1,0,82,0
+28,48,808,"Monthly","Value Seekers",3,4,1,0,0,79,0
+18,54,1051,"Quarterly","Price Sensitive",4,0,1,0,0,47,0
+20,35,1318,"Monthly","Premium",2,7,1,1,0,28,1
+7,101,1581,"Quarterly","Premium",1,3,1,1,1,85,0
+20,49,1203,"Annual","Price Sensitive",4,4,0,0,1,44,0
+9,32,1529,"Quarterly","Value Seekers",8,3,1,1,1,20,1
+19,37,685,"Quarterly","Value Seekers",3,0,0,0,0,70,0
+23,57,1297,"Quarterly","Value Seekers",6,4,0,1,1,37,1
+26,33,1530,"Monthly","Price Sensitive",1,3,0,1,0,44,0
+22,71,706,"Monthly","Value Seekers",1,3,1,0,0,85,0
+3,48,371,"Monthly","Price Sensitive",1,0,0,0,0,82,0
+15,86,688,"Monthly","Value Seekers",1,3,0,0,1,69,0
+13,85,1330,"Quarterly","Price Sensitive",2,3,0,1,0,58,0
+3,69,906,"Quarterly","Price Sensitive",2,2,1,0,0,55,0
+12,72,1239,"Monthly","Value Seekers",1,4,0,1,0,70,0
+20,70,981,"Monthly","Value Seekers",1,4,1,1,0,55,0
+18,58,300,"Monthly","Value Seekers",1,4,0,0,0,64,1
+21,56,300,"Annual","Premium",1,2,0,0,1,82,0
+14,72,577,"Annual","Price Sensitive",0,1,1,1,0,93,0
+12,51,828,"Quarterly","Price Sensitive",4,2,0,1,0,65,1
+16,57,1158,"Monthly","Premium",2,4,1,0,0,58,0
+63,56,331,"Monthly","Premium",2,0,0,1,0,78,0
+17,60,1795,"Quarterly","Price Sensitive",1,0,0,0,1,59,0
+7,37,300,"Quarterly","Value Seekers",2,0,0,0,0,60,0
+25,70,1277,"Monthly","Value Seekers",0,3,1,1,1,85,0
+41,80,489,"Quarterly","Price Sensitive",0,2,1,0,0,74,0
+22,85,1685,"Annual","Premium",2,1,1,1,0,94,0
+31,26,1369,"Monthly","Price Sensitive",0,4,0,0,0,70,0
+14,45,1282,"Annual","Price Sensitive",2,2,0,1,0,70,0
+5,94,1013,"Quarterly","Value Seekers",2,1,1,1,1,71,0
+8,108,2166,"Monthly","Value Seekers",2,2,0,1,1,92,0
+42,51,834,"Quarterly","Value Seekers",3,3,0,1,0,55,1
+13,66,1357,"Monthly","Value Seekers",2,1,0,1,0,88,0
+17,48,1198,"Annual","Premium",3,2,1,0,1,56,0
+20,17,2085,"Monthly","Price Sensitive",0,3,0,0,0,68,0
+8,77,864,"Quarterly","Value Seekers",1,2,0,0,0,92,0
+19,45,1839,"Monthly","Price Sensitive",5,4,0,0,0,23,1
+5,75,1257,"Monthly","Value Seekers",2,2,0,0,1,80,0
+8,95,1104,"Monthly","Value Seekers",2,0,0,1,1,76,0
+7,53,1922,"Quarterly","Premium",0,2,0,1,1,87,0
+3,95,1830,"Monthly","Price Sensitive",2,1,0,0,0,81,0
+14,54,927,"Annual","Value Seekers",0,2,0,0,0,79,0
+29,102,973,"Monthly","Value Seekers",2,1,0,0,1,74,0
+28,83,699,"Quarterly","Price Sensitive",0,7,0,0,1,76,0
+15,68,1021,"Quarterly","Value Seekers",2,3,0,0,1,58,0
+25,76,969,"Monthly","Price Sensitive",2,9,1,1,1,24,1
+18,64,1252,"Quarterly","Price Sensitive",4,0,0,1,0,63,0
+11,68,1649,"Monthly","Price Sensitive",3,4,0,0,0,55,0
+25,62,1143,"Annual","Value Seekers",2,2,0,0,0,86,0
+21,49,1311,"Monthly","Premium",4,3,0,0,0,62,0
+13,100,588,"Quarterly","Premium",0,2,0,1,0,94,0
+21,41,579,"Annual","Premium",2,2,0,0,0,64,0
+19,83,906,"Monthly","Value Seekers",2,3,0,0,1,76,0
+7,109,1535,"Monthly","Price Sensitive",4,2,0,0,0,70,0
+22,31,1416,"Annual","Value Seekers",1,3,1,1,1,53,0
+14,42,2196,"Annual","Premium",2,1,1,1,1,73,0
+47,39,1371,"Quarterly","Price Sensitive",2,5,0,1,0,56,0
+16,65,1373,"Annual","Price Sensitive",0,1,0,0,1,79,0
+17,53,719,"Monthly","Premium",1,1,0,0,0,64,0
+36,84,990,"Monthly","Value Seekers",4,0,1,0,1,52,0
+17,91,1358,"Quarterly","Value Seekers",3,0,0,1,0,69,0
+16,102,1224,"Quarterly","Price Sensitive",1,2,0,1,1,83,0
+26,55,1595,"Monthly","Premium",1,1,0,0,1,82,0
+34,63,1100,"Annual","Price Sensitive",1,2,1,0,0,69,0
+6,64,1497,"Quarterly","Price Sensitive",0,1,1,1,1,78,0
+8,40,1722,"Quarterly","Value Seekers",0,1,0,0,0,84,0
+31,35,1570,"Monthly","Price Sensitive",1,2,0,1,0,50,0
+12,38,1428,"Annual","Price Sensitive",3,1,1,1,0,53,0
+38,61,1263,"Monthly","Value Seekers",2,3,0,0,0,63,0
+5,57,976,"Monthly","Value Seekers",3,6,0,1,0,24,1
+6,67,300,"Monthly","Price Sensitive",0,2,0,0,0,77,0
+13,59,1601,"Annual","Value Seekers",2,1,1,0,1,76,0
+9,39,2050,"Monthly","Value Seekers",4,1,0,1,0,73,0
+72,22,1127,"Quarterly","Premium",2,0,0,0,0,78,0
+16,40,1828,"Annual","Premium",2,6,1,0,0,43,0
+19,80,517,"Annual","Price Sensitive",6,2,1,1,1,47,1
+11,33,521,"Annual","Value Seekers",2,2,0,0,0,61,0
+11,72,1190,"Monthly","Premium",0,2,0,1,1,100,0
+19,52,1294,"Annual","Value Seekers",3,1,0,1,1,62,0
+18,55,1340,"Monthly","Value Seekers",0,0,0,1,1,85,0
+22,78,929,"Monthly","Price Sensitive",3,3,0,0,0,67,0
+30,54,2393,"Monthly","Price Sensitive",2,2,0,0,0,76,0
+11,79,810,"Quarterly","Price Sensitive",2,1,0,0,0,74,0
+8,95,862,"Quarterly","Value Seekers",1,1,1,0,1,81,0
+28,91,1541,"Quarterly","Value Seekers",2,2,0,0,0,82,0
+20,44,1327,"Quarterly","Value Seekers",1,1,0,0,0,63,0
+14,69,300,"Monthly","Value Seekers",1,2,0,0,0,78,0
+6,70,1438,"Monthly","Value Seekers",2,2,0,0,0,62,0
+21,38,1166,"Monthly","Premium",2,3,0,0,0,49,0
+6,56,1284,"Annual","Price Sensitive",3,3,0,1,0,50,0
+30,86,1359,"Quarterly","Value Seekers",1,2,1,0,0,80,0
+7,82,1319,"Annual","Value Seekers",0,3,0,0,0,94,0
+22,70,1233,"Monthly","Premium",1,1,0,0,0,85,0
+13,72,948,"Annual","Price Sensitive",4,4,0,0,0,72,0
+9,52,1464,"Monthly","Price Sensitive",1,7,0,0,0,50,0
+42,77,2371,"Monthly","Price Sensitive",3,2,0,0,0,57,0
+28,73,1098,"Monthly","Price Sensitive",0,2,0,0,0,100,0
+10,68,1544,"Monthly","Value Seekers",0,2,1,0,0,79,0
+17,92,1339,"Monthly","Value Seekers",3,0,0,0,0,84,0
+29,53,1779,"Quarterly","Price Sensitive",0,1,0,0,0,79,0
+21,45,1375,"Quarterly","Value Seekers",3,5,0,0,0,31,1
+24,67,1073,"Monthly","Premium",2,2,0,1,1,85,0
+5,52,1065,"Monthly","Price Sensitive",0,4,0,0,0,71,0
