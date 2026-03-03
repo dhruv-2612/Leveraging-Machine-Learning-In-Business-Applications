@@ -30,7 +30,8 @@ kmeans_data <- user_continuous_data %>% dplyr::select(-UserID) %>% scale()
 cat("Iterating K (1-10) for Elbow and Silhouette methods...\n")
 kmeans_metrics <- data.frame(K = 1:10, WCSS = NA, Silhouette = NA)
 for (k in 1:10) {
-  km_tmp <- kmeans(kmeans_data, centers = k, nstart = 10)
+  set.seed(42)
+  km_tmp <- kmeans(kmeans_data, centers = k, nstart = 25)
   kmeans_metrics$WCSS[k] <- km_tmp$tot.withinss
   
   if (k > 1) {
@@ -58,6 +59,7 @@ print(ggplotly(p_km_sil))
 
 # Apply K-Means
 optimal_k_means <- 4
+set.seed(42)
 kmeans_model <- kmeans(kmeans_data, centers = optimal_k_means, nstart = 25)
 user_continuous_data$KMeans_Cluster <- as.factor(kmeans_model$cluster)
 
@@ -86,6 +88,7 @@ kmodes_data <- user_categorical_data %>% dplyr::select(-UserID) %>% mutate_all(a
 cat("Iterating K (1-10) to find optimal K (Cost/Dissimilarity)...\n")
 kmodes_metrics <- data.frame(K = 1:10, Cost = NA)
 for (k in 1:10) {
+  set.seed(42)
   km_model_tmp <- klaR::kmodes(kmodes_data, k, iter.max = 50)
   kmodes_metrics$Cost[k] <- sum(km_model_tmp$withindiff)
   cat(sprintf("K = %2d | Total Dissimilarity (Cost): %10.2f\n", k, kmodes_metrics$Cost[k]))
@@ -101,6 +104,7 @@ print(ggplotly(p_kmodes_cost))
 
 # Apply K-Modes
 optimal_k_modes <- 4
+set.seed(42)
 kmodes_model <- klaR::kmodes(kmodes_data, optimal_k_modes, iter.max = 100)
 user_categorical_data$KModes_Cluster <- as.factor(kmodes_model$cluster)
 
@@ -121,12 +125,13 @@ clustering_data_mixed <- merged_user_data %>% dplyr::select(-UserID)
 categorical_cols <- c("DeviceType", "PreferredContentCategory", "SubscriptionPlan", "UserOrigin", "FeedbackGiven")
 clustering_data_mixed <- clustering_data_mixed %>% mutate_at(vars(all_of(categorical_cols)), as.factor)
 
-cat("Calculating Gower Dissimilarity Matrix (Mixed data metric)...\n")
+# Calculate Gower Distance Matrix
 gower_dist <- daisy(clustering_data_mixed, metric = "gower")
 
 cat("Iterating K (1-10) for PAM (K-Prototypes equivalent)...\n")
 pam_metrics <- data.frame(K = 1:10, Cost = NA, Silhouette = NA)
 for (k in 1:10) {
+  set.seed(42)
   pam_temp <- pam(gower_dist, k = k, diss = TRUE, stand = FALSE)
   pam_metrics$Cost[k] <- pam_temp$objective["swap"] 
   
@@ -155,6 +160,7 @@ print(ggplotly(p_pam_sil))
 
 # Apply PAM
 optimal_k_proto <- 4
+set.seed(42)
 pam_model <- pam(gower_dist, k = optimal_k_proto, diss = TRUE, stand = FALSE, nstart = 25)
 merged_user_data$PAM_Cluster <- as.factor(pam_model$clustering)
 
